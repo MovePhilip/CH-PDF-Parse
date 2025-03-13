@@ -1,0 +1,6138 @@
+[
+ {
+  "image_id": 0,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      22.0,
+      22.0
+     ],
+     [
+      335.0,
+      22.0
+     ],
+     [
+      335.0,
+      42.0
+     ],
+     [
+      22.0,
+      42.0
+     ]
+    ],
+    "text": "微体古生物学报2006年9月；23(3)：3",
+    "order": 1,
+    "need-info": false,
+    "region_type": "header",
+    "new_line": false,
+    "structure_function": "header"
+   },
+   {
+    "text_region": [
+     [
+      514.0,
+      55.0
+     ],
+     [
+      539.0,
+      55.0
+     ],
+     [
+      539.0,
+      65.0
+     ],
+     [
+      514.0,
+      65.0
+     ]
+    ],
+    "text": "00",
+    "order": 2,
+    "need-info": false,
+    "region_type": "header",
+    "new_line": false,
+    "structure_function": "header"
+   },
+   {
+    "text_region": [
+     [
+      70.0,
+      148.0
+     ],
+     [
+      908.0,
+      146.0
+     ],
+     [
+      908.0,
+      184.0
+     ],
+     [
+      70.0,
+      185.0
+     ]
+    ],
+    "text": "鄂尔多斯盆地三叠系延长组疑源类的荧光特征",
+    "order": 3,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      200.0,
+      232.0
+     ],
+     [
+      582.0,
+      232.0
+     ],
+     [
+      582.0,
+      263.0
+     ],
+     [
+      200.0,
+      263.0
+     ]
+    ],
+    "text": "吉利明 孟凡巍” 吴涛 徐金鲤",
+    "order": 5,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "author"
+   },
+   {
+    "text_region": [
+     [
+      185.0,
+      273.0
+     ],
+     [
+      706.0,
+      273.0
+     ],
+     [
+      706.0,
+      288.0
+     ],
+     [
+      185.0,
+      288.0
+     ]
+    ],
+    "text": "1)中国科学院地质与地球物理研究所，兰州油气资源研究中心兰州730000jili",
+    "order": 6,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "institution"
+   },
+   {
+    "text_region": [
+     [
+      362.0,
+      295.0
+     ],
+     [
+      639.0,
+      293.0
+     ],
+     [
+      639.0,
+      315.0
+     ],
+     [
+      362.0,
+      316.0
+     ]
+    ],
+    "text": "2）中国地质大学研究生院，武汉430074",
+    "order": 7,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "institution"
+   },
+   {
+    "text_region": [
+     [
+      324.0,
+      323.0
+     ],
+     [
+      679.0,
+      321.0
+     ],
+     [
+      679.0,
+      341.0
+     ],
+     [
+      324.0,
+      343.0
+     ]
+    ],
+    "text": "3）中国科学院南京地质古生物研究所，南京210008",
+    "order": 8,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "institution"
+   },
+   {
+    "text_region": [
+     [
+      62.0,
+      425.0
+     ],
+     [
+      944.0,
+      425.0
+     ],
+     [
+      944.0,
+      446.0
+     ],
+     [
+      62.0,
+      446.0
+     ]
+    ],
+    "text": "提要 在鄂尔多斯盆地三叠纪湖相沉积的延长组中，发现保存很好的藻类化石，荧光显微镜下显示很好的荧光；我",
+    "order": 9,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      65.0,
+      452.0
+     ],
+     [
+      939.0,
+      452.0
+     ],
+     [
+      939.0,
+      472.0
+     ],
+     [
+      65.0,
+      472.0
+     ]
+    ],
+    "text": "们发现同层位产出的不同藻类化石具有不同的荧光强度，对这些藻类荧光强度的观察，符合以往国外学者提出的",
+    "order": 10,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      67.0,
+      482.0
+     ],
+     [
+      941.0,
+      482.0
+     ],
+     [
+      941.0,
+      502.0
+     ],
+     [
+      67.0,
+      502.0
+     ]
+    ],
+    "text": "化石荧光与化石类别相关的结论。这也是我国首次用化石藻类荧光与生物属性关系进行研究的尝试，为今后利用",
+    "order": 11,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      65.0,
+      508.0
+     ],
+     [
+      500.0,
+      508.0
+     ],
+     [
+      500.0,
+      528.0
+     ],
+     [
+      65.0,
+      528.0
+     ]
+    ],
+    "text": "荧光进行化石藻类分选和超微结构研究作了有益的探索。",
+    "order": 12,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      63.0,
+      539.0
+     ],
+     [
+      585.0,
+      539.0
+     ],
+     [
+      585.0,
+      559.0
+     ],
+     [
+      63.0,
+      559.0
+     ]
+    ],
+    "text": "关键词 疑源类 荧光 延长组 三叠纪 鄂尔多斯盆地",
+    "order": 13,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "keyword"
+   },
+   {
+    "text_region": [
+     [
+      24.0,
+      636.0
+     ],
+     [
+      138.0,
+      636.0
+     ],
+     [
+      138.0,
+      653.0
+     ],
+     [
+      24.0,
+      653.0
+     ]
+    ],
+    "text": "1 简 介",
+    "order": 15,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      63.0,
+      697.0
+     ],
+     [
+      478.0,
+      697.0
+     ],
+     [
+      478.0,
+      717.0
+     ],
+     [
+      63.0,
+      717.0
+     ]
+    ],
+    "text": "荧光在现生与化石孢粉及有机壁微体藻类体中",
+    "order": 16,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      24.0,
+      728.0
+     ],
+     [
+      479.0,
+      728.0
+     ],
+     [
+      479.0,
+      748.0
+     ],
+     [
+      24.0,
+      748.0
+     ]
+    ],
+    "text": "是一种常见的光学现象，有机质在进入沉积地层后",
+    "order": 17,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      759.0
+     ],
+     [
+      482.0,
+      759.0
+     ],
+     [
+      482.0,
+      779.0
+     ],
+     [
+      22.0,
+      779.0
+     ]
+    ],
+    "text": "由于温度、压力以及氧化作用的加强，自身荧光的颜",
+    "order": 18,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      790.0
+     ],
+     [
+      474.0,
+      790.0
+     ],
+     [
+      474.0,
+      810.0
+     ],
+     [
+      22.0,
+      810.0
+     ]
+    ],
+    "text": "色逐渐加深，强度逐渐减弱等有规律的变化（Ha",
+    "order": 19,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      818.0
+     ],
+     [
+      482.0,
+      815.0
+     ],
+     [
+      482.0,
+      841.0
+     ],
+     [
+      19.0,
+      845.0
+     ]
+    ],
+    "text": "inga，1971;Van Gijzel，1967,1971)，因此对微体化",
+    "order": 20,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      849.0
+     ],
+     [
+      479.0,
+      851.0
+     ],
+     [
+      479.0,
+      873.0
+     ],
+     [
+      22.0,
+      871.0
+     ]
+    ],
+    "text": "石进行荧光特征研究时，首先需要保存良好的化石",
+    "order": 21,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      880.0
+     ],
+     [
+      479.0,
+      882.0
+     ],
+     [
+      479.0,
+      904.0
+     ],
+     [
+      21.0,
+      902.0
+     ]
+    ],
+    "text": "材料。在石油地质研究中，荧光显微镜和荧光测量",
+    "order": 22,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      912.0
+     ],
+     [
+      467.0,
+      913.0
+     ],
+     [
+      466.0,
+      935.0
+     ],
+     [
+      19.0,
+      933.0
+     ]
+    ],
+    "text": "技术被广泛应用于不同干酪根类型的鉴定（Robert",
+    "order": 23,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      941.0
+     ],
+     [
+      482.0,
+      944.0
+     ],
+     [
+      482.0,
+      966.0
+     ],
+     [
+      21.0,
+      963.0
+     ]
+    ],
+    "text": "1981)，与古生物有关的显微荧光研究也主要集中在",
+    "order": 24,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      976.0
+     ],
+     [
+      484.0,
+      976.0
+     ],
+     [
+      484.0,
+      996.0
+     ],
+     [
+      22.0,
+      996.0
+     ]
+    ],
+    "text": "孢粉化石方面，而较少注意到疑源类的荧光特性",
+    "order": 25,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      20.0,
+      1005.0
+     ],
+     [
+      179.0,
+      1002.0
+     ],
+     [
+      179.0,
+      1027.0
+     ],
+     [
+      21.0,
+      1030.0
+     ]
+    ],
+    "text": "(Talyzina ,1998)。",
+    "order": 26,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      63.0,
+      1038.0
+     ],
+     [
+      482.0,
+      1038.0
+     ],
+     [
+      482.0,
+      1058.0
+     ],
+     [
+      63.0,
+      1058.0
+     ]
+    ],
+    "text": "以往国外学者对疑源类的荧光研究主要集中在",
+    "order": 27,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1069.0
+     ],
+     [
+      479.0,
+      1069.0
+     ],
+     [
+      479.0,
+      1089.0
+     ],
+     [
+      22.0,
+      1089.0
+     ]
+    ],
+    "text": "海相沉积中，根据荧光的强弱进行了种属分类的尝",
+    "order": 28,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      1097.0
+     ],
+     [
+      484.0,
+      1095.0
+     ],
+     [
+      484.0,
+      1122.0
+     ],
+     [
+      19.0,
+      1124.0
+     ]
+    ],
+    "text": "试(Talyzina，1998）；最近笔者在中国西北地区鄂尔",
+    "order": 29,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      24.0,
+      1131.0
+     ],
+     [
+      484.0,
+      1131.0
+     ],
+     [
+      484.0,
+      1152.0
+     ],
+     [
+      24.0,
+      1152.0
+     ]
+    ],
+    "text": "多斯盆地三叠系延长组中发现的保存极为良好的湖",
+    "order": 30,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      1161.0
+     ],
+     [
+      479.0,
+      1159.0
+     ],
+     [
+      479.0,
+      1181.0
+     ],
+     [
+      21.0,
+      1183.0
+     ]
+    ],
+    "text": "相疑源类，为我们提供了应用荧光技术进行微体古",
+    "order": 31,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1192.0
+     ],
+     [
+      387.0,
+      1192.0
+     ],
+     [
+      387.0,
+      1212.0
+     ],
+     [
+      22.0,
+      1212.0
+     ]
+    ],
+    "text": "生物研究的条件，这也是国内的首次尝试",
+    "order": 32,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1249.0
+     ],
+     [
+      28.0,
+      1265.0
+     ],
+     [
+      35.0,
+      1270.0
+     ],
+     [
+      22.0,
+      1270.0
+     ]
+    ],
+    "text": "2",
+    "order": 33,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      59.0,
+      1248.0
+     ],
+     [
+      170.0,
+      1248.0
+     ],
+     [
+      170.0,
+      1270.0
+     ],
+     [
+      59.0,
+      1270.0
+     ]
+    ],
+    "text": "地质背景",
+    "order": 34,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      603.0
+     ],
+     [
+      982.0,
+      603.0
+     ],
+     [
+      982.0,
+      623.0
+     ],
+     [
+      522.0,
+      623.0
+     ]
+    ],
+    "text": "部分，中晚三叠纪进入独立的凹陷型湖盆发展阶段，",
+    "order": 35,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      634.0
+     ],
+     [
+      987.0,
+      634.0
+     ],
+     [
+      987.0,
+      654.0
+     ],
+     [
+      525.0,
+      654.0
+     ]
+    ],
+    "text": "沉积了一套西南部较深、东北部较浅的总厚达1000",
+    "order": 36,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      665.0
+     ],
+     [
+      993.0,
+      665.0
+     ],
+     [
+      993.0,
+      686.0
+     ],
+     [
+      522.0,
+      686.0
+     ]
+    ],
+    "text": "m以上的湖相-三角洲相碎屑岩，即延长组建造，是",
+    "order": 37,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      695.0
+     ],
+     [
+      993.0,
+      697.0
+     ],
+     [
+      993.0,
+      718.0
+     ],
+     [
+      524.0,
+      717.0
+     ]
+    ],
+    "text": "盆地区中生界油藏的主要油源（长庆油田石油地质",
+    "order": 38,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      729.0
+     ],
+     [
+      679.0,
+      729.0
+     ],
+     [
+      679.0,
+      750.0
+     ],
+     [
+      525.0,
+      750.0
+     ]
+    ],
+    "text": "志编写组，1992）。",
+    "order": 39,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      565.0,
+      762.0
+     ],
+     [
+      993.0,
+      762.0
+     ],
+     [
+      993.0,
+      782.0
+     ],
+     [
+      565.0,
+      782.0
+     ]
+    ],
+    "text": "近年来在盆地西南部，构造位置处于伊陕斜坡",
+    "order": 40,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      792.0
+     ],
+     [
+      988.0,
+      792.0
+     ],
+     [
+      988.0,
+      812.0
+     ],
+     [
+      524.0,
+      812.0
+     ]
+    ],
+    "text": "的陇东地区发现了西峰大油田，其储层主要为延长",
+    "order": 41,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      823.0
+     ],
+     [
+      990.0,
+      824.0
+     ],
+     [
+      990.0,
+      846.0
+     ],
+     [
+      522.0,
+      845.0
+     ]
+    ],
+    "text": "组长8段水下分流河道相砂体，主力油源是延长组",
+    "order": 42,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      857.0
+     ],
+     [
+      984.0,
+      857.0
+     ],
+     [
+      984.0,
+      877.0
+     ],
+     [
+      525.0,
+      877.0
+     ]
+    ],
+    "text": "长7段深湖-半深湖相富有机质泥岩（付金华等，",
+    "order": 43,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      887.0
+     ],
+     [
+      993.0,
+      890.0
+     ],
+     [
+      993.0,
+      912.0
+     ],
+     [
+      522.0,
+      908.0
+     ]
+    ],
+    "text": "2004）。前人对陇东地区延长组长8一长6段源岩",
+    "order": 44,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      921.0
+     ],
+     [
+      993.0,
+      921.0
+     ],
+     [
+      993.0,
+      941.0
+     ],
+     [
+      525.0,
+      941.0
+     ]
+    ],
+    "text": "显微组分研究发现，泥岩段中腐泥无定形体、藻类体",
+    "order": 45,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      954.0
+     ],
+     [
+      995.0,
+      954.0
+     ],
+     [
+      995.0,
+      974.0
+     ],
+     [
+      524.0,
+      974.0
+     ]
+    ],
+    "text": "较为发育。大量发育的湖生藻类无疑是本地区原油",
+    "order": 46,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      988.0
+     ],
+     [
+      988.0,
+      988.0
+     ],
+     [
+      988.0,
+      1004.0
+     ],
+     [
+      527.0,
+      1004.0
+     ]
+    ],
+    "text": "的重要母质来源。为了进一步明确藻体类型和丰",
+    "order": 47,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1018.0
+     ],
+     [
+      993.0,
+      1018.0
+     ],
+     [
+      993.0,
+      1038.0
+     ],
+     [
+      525.0,
+      1038.0
+     ]
+    ],
+    "text": "度，探索其分布规律及其与油源岩发育的关系，笔者",
+    "order": 48,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1049.0
+     ],
+     [
+      990.0,
+      1049.0
+     ],
+     [
+      990.0,
+      1069.0
+     ],
+     [
+      525.0,
+      1069.0
+     ]
+    ],
+    "text": "对陇东西峰地区与油藏形成有密切联系的延长组长",
+    "order": 49,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      1078.0
+     ],
+     [
+      990.0,
+      1080.0
+     ],
+     [
+      990.0,
+      1102.0
+     ],
+     [
+      522.0,
+      1100.0
+     ]
+    ],
+    "text": "8一长7段进行了系统的化石藻类分析，发现了极其",
+    "order": 50,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1113.0
+     ],
+     [
+      993.0,
+      1113.0
+     ],
+     [
+      993.0,
+      1134.0
+     ],
+     [
+      525.0,
+      1134.0
+     ]
+    ],
+    "text": "丰富的以光面球藻（Leiosphaeridia）为主的疑源类",
+    "order": 51,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      1144.0
+     ],
+     [
+      576.0,
+      1144.0
+     ],
+     [
+      576.0,
+      1167.0
+     ],
+     [
+      522.0,
+      1167.0
+     ]
+    ],
+    "text": "组合。",
+    "order": 52,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      565.0,
+      1177.0
+     ],
+     [
+      990.0,
+      1177.0
+     ],
+     [
+      990.0,
+      1197.0
+     ],
+     [
+      565.0,
+      1197.0
+     ]
+    ],
+    "text": "延长组自下而上按岩性可区分出5个岩性段",
+    "order": 53,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1208.0
+     ],
+     [
+      974.0,
+      1208.0
+     ],
+     [
+      974.0,
+      1230.0
+     ],
+     [
+      525.0,
+      1230.0
+     ]
+    ],
+    "text": "(Tzy\"一T\"），自上而下依含油性、电性及标志层",
+    "order": 54,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      1239.0
+     ],
+     [
+      996.0,
+      1240.0
+     ],
+     [
+      996.0,
+      1262.0
+     ],
+     [
+      524.0,
+      1261.0
+     ]
+    ],
+    "text": "又可划分为10个油层组（长1一长10）。各油层组",
+    "order": 55,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1273.0
+     ],
+     [
+      990.0,
+      1273.0
+     ],
+     [
+      990.0,
+      1293.0
+     ],
+     [
+      525.0,
+      1293.0
+     ]
+    ],
+    "text": "可根据内部沉积旋回特征和岩性组合特点，再细分",
+    "order": 56,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      1301.0
+     ],
+     [
+      984.0,
+      1301.0
+     ],
+     [
+      984.0,
+      1328.0
+     ],
+     [
+      522.0,
+      1328.0
+     ]
+    ],
+    "text": "为2-3个油层段，其中，长1-长3、长6和长7为",
+    "order": 57,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      54.0,
+      1351.0
+     ],
+     [
+      666.0,
+      1353.0
+     ],
+     [
+      666.0,
+      1374.0
+     ],
+     [
+      54.0,
+      1373.0
+     ]
+    ],
+    "text": "*2002年度中国科学院“西部之光”人才培养计划与2003年度甘肃省中青年科技基金资助",
+    "order": 58,
+    "need-info": false,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      56.0,
+      1382.0
+     ],
+     [
+      119.0,
+      1382.0
+     ],
+     [
+      119.0,
+      1399.0
+     ],
+     [
+      56.0,
+      1399.0
+     ]
+    ],
+    "text": "收稿日期",
+    "order": 59,
+    "need-info": false,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   }
+  ],
+  "image_size": [
+   1117,
+   1496
+  ],
+  "position": [
+   [
+    16,
+    20,
+    22,
+    1
+   ],
+   [
+    17,
+    -1,
+    9,
+    1
+   ],
+   [
+    17,
+    10,
+    30,
+    1
+   ],
+   [
+    20,
+    19,
+    25,
+    1
+   ],
+   [
+    21,
+    -1,
+    4,
+    1
+   ],
+   [
+    23,
+    1,
+    15,
+    1
+   ],
+   [
+    26,
+    2,
+    15,
+    1
+   ],
+   [
+    35,
+    14,
+    22,
+    1
+   ],
+   [
+    36,
+    -1,
+    9,
+    1
+   ],
+   [
+    40,
+    17,
+    22,
+    1
+   ],
+   [
+    41,
+    -1,
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "image_id": 1,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      21.0,
+      23.0
+     ],
+     [
+      479.0,
+      23.0
+     ],
+     [
+      479.0,
+      45.0
+     ],
+     [
+      21.0,
+      45.0
+     ]
+    ],
+    "text": "三分，长4十5和长8为二分。本文述及的广义延长",
+    "order": 1,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      56.0
+     ],
+     [
+      479.0,
+      56.0
+     ],
+     [
+      479.0,
+      76.0
+     ],
+     [
+      22.0,
+      76.0
+     ]
+    ],
+    "text": "组包括下部铜川组和上部狭义延长组，前者相当",
+    "order": 2,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      17.0,
+      83.0
+     ],
+     [
+      468.0,
+      83.0
+     ],
+     [
+      468.0,
+      109.0
+     ],
+     [
+      17.0,
+      109.0
+     ]
+    ],
+    "text": "T1一Ty²段，即长10一长8段，后者相当T3y”-",
+    "order": 3,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      118.0
+     ],
+     [
+      482.0,
+      118.0
+     ],
+     [
+      482.0,
+      140.0
+     ],
+     [
+      19.0,
+      140.0
+     ]
+    ],
+    "text": "T”段，即长7一长1段，前人依据古植物、鱼类及",
+    "order": 4,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      150.0
+     ],
+     [
+      473.0,
+      150.0
+     ],
+     [
+      473.0,
+      170.0
+     ],
+     [
+      21.0,
+      170.0
+     ]
+    ],
+    "text": "瓣鳃类化石将铜川组的时代确定为中三叠纪晚期",
+    "order": 5,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      182.0
+     ],
+     [
+      479.0,
+      182.0
+     ],
+     [
+      479.0,
+      203.0
+     ],
+     [
+      22.0,
+      203.0
+     ]
+    ],
+    "text": "将狭义延长组的时代确定为晚三叠纪（中国地质科",
+    "order": 6,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      212.0
+     ],
+     [
+      236.0,
+      212.0
+     ],
+     [
+      236.0,
+      234.0
+     ],
+     [
+      21.0,
+      234.0
+     ]
+    ],
+    "text": "学院地质研究所，1980）。",
+    "order": 7,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      24.0,
+      274.0
+     ],
+     [
+      32.0,
+      274.0
+     ],
+     [
+      32.0,
+      301.0
+     ],
+     [
+      24.0,
+      301.0
+     ]
+    ],
+    "text": "3",
+    "order": 8,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      57.0,
+      274.0
+     ],
+     [
+      200.0,
+      274.0
+     ],
+     [
+      200.0,
+      301.0
+     ],
+     [
+      57.0,
+      301.0
+     ]
+    ],
+    "text": "材料和方法",
+    "order": 9,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      63.0,
+      341.0
+     ],
+     [
+      481.0,
+      341.0
+     ],
+     [
+      481.0,
+      357.0
+     ],
+     [
+      63.0,
+      357.0
+     ]
+    ],
+    "text": "样品来自鄂尔多斯盆地西南部陇东地区延长组",
+    "order": 10,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      369.0
+     ],
+     [
+      479.0,
+      369.0
+     ],
+     [
+      479.0,
+      391.0
+     ],
+     [
+      22.0,
+      391.0
+     ]
+    ],
+    "text": "长8一长7段，微体化石通过45%的HF酸和15%",
+    "order": 11,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      402.0
+     ],
+     [
+      473.0,
+      402.0
+     ],
+     [
+      473.0,
+      422.0
+     ],
+     [
+      22.0,
+      422.0
+     ]
+    ],
+    "text": "的盐酸混合液浸泡得到，并用蒸馏水洗涤至中性",
+    "order": 12,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      430.0
+     ],
+     [
+      482.0,
+      430.0
+     ],
+     [
+      482.0,
+      452.0
+     ],
+     [
+      22.0,
+      452.0
+     ]
+    ],
+    "text": "分别用蔡司AXIOSKOPⅡI型，蓝色荧光和普通光",
+    "order": 13,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      463.0
+     ],
+     [
+      484.0,
+      461.0
+     ],
+     [
+      484.0,
+      483.0
+     ],
+     [
+      21.0,
+      485.0
+     ]
+    ],
+    "text": "学显微镜进行观察和照相。封片胶是无荧光的502",
+    "order": 14,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      496.0
+     ],
+     [
+      289.0,
+      496.0
+     ],
+     [
+      289.0,
+      516.0
+     ],
+     [
+      21.0,
+      516.0
+     ]
+    ],
+    "text": "树胶，来避免背景荧光的干扰。",
+    "order": 15,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      62.0,
+      527.0
+     ],
+     [
+      482.0,
+      525.0
+     ],
+     [
+      482.0,
+      547.0
+     ],
+     [
+      62.0,
+      549.0
+     ]
+    ],
+    "text": "用来进行荧光研究的化石应当具有比较低的变",
+    "order": 16,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      555.0
+     ],
+     [
+      479.0,
+      556.0
+     ],
+     [
+      479.0,
+      583.0
+     ],
+     [
+      19.0,
+      581.0
+     ]
+    ],
+    "text": "质程度（Robert，1981;Van Gijzel，1981;Hayes et",
+    "order": 17,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      16.0,
+      586.0
+     ],
+     [
+      484.0,
+      588.0
+     ],
+     [
+      484.0,
+      614.0
+     ],
+     [
+      16.0,
+      612.0
+     ]
+    ],
+    "text": "ul.,1983;McPhilemy，1988），鄂尔多斯盆地延长组",
+    "order": 18,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      622.0
+     ],
+     [
+      473.0,
+      622.0
+     ],
+     [
+      473.0,
+      642.0
+     ],
+     [
+      21.0,
+      642.0
+     ]
+    ],
+    "text": "的疑源类由于特殊的保存条件，基本满足这种要求",
+    "order": 19,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      653.0
+     ],
+     [
+      479.0,
+      653.0
+     ],
+     [
+      479.0,
+      673.0
+     ],
+     [
+      22.0,
+      673.0
+     ]
+    ],
+    "text": "在光学显微镜下为透明、半透明的淡黄色，TAI（色",
+    "order": 20,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      684.0
+     ],
+     [
+      482.0,
+      684.0
+     ],
+     [
+      482.0,
+      704.0
+     ],
+     [
+      22.0,
+      704.0
+     ]
+    ],
+    "text": "变指数)在1左右。推测为大型湖泊中平静的湖相",
+    "order": 21,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      715.0
+     ],
+     [
+      482.0,
+      715.0
+     ],
+     [
+      482.0,
+      736.0
+     ],
+     [
+      21.0,
+      736.0
+     ]
+    ],
+    "text": "沉积和埋藏后较低的热变质作用使这些化石保存得",
+    "order": 22,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      748.0
+     ],
+     [
+      482.0,
+      748.0
+     ],
+     [
+      482.0,
+      768.0
+     ],
+     [
+      22.0,
+      768.0
+     ]
+    ],
+    "text": "十分良好。尽管延长组长7一长8段镜质体反射率",
+    "order": 23,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      778.0
+     ],
+     [
+      479.0,
+      778.0
+     ],
+     [
+      479.0,
+      799.0
+     ],
+     [
+      19.0,
+      799.0
+     ]
+    ],
+    "text": "R。达到0.9%，已进入有机质的成熟阶段，但由于",
+    "order": 24,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      810.0
+     ],
+     [
+      479.0,
+      810.0
+     ],
+     [
+      479.0,
+      831.0
+     ],
+     [
+      21.0,
+      831.0
+     ]
+    ],
+    "text": "富有机质泥岩、油页岩中有机质的隔热作用，使化石",
+    "order": 25,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      842.0
+     ],
+     [
+      484.0,
+      842.0
+     ],
+     [
+      484.0,
+      862.0
+     ],
+     [
+      22.0,
+      862.0
+     ]
+    ],
+    "text": "保存的局部环境未达到环境的相应变质程度，从而",
+    "order": 26,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      871.0
+     ],
+     [
+      359.0,
+      873.0
+     ],
+     [
+      359.0,
+      895.0
+     ],
+     [
+      19.0,
+      893.0
+     ]
+    ],
+    "text": "能够从其中发现低变质的疑源类化石",
+    "order": 27,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      24.0,
+      935.0
+     ],
+     [
+      180.0,
+      935.0
+     ],
+     [
+      180.0,
+      957.0
+     ],
+     [
+      24.0,
+      957.0
+     ]
+    ],
+    "text": "4 结 果",
+    "order": 28,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      63.0,
+      997.0
+     ],
+     [
+      476.0,
+      997.0
+     ],
+     [
+      476.0,
+      1018.0
+     ],
+     [
+      63.0,
+      1018.0
+     ]
+    ],
+    "text": "多数样品含有一个分异的疑源类和藻类组合，",
+    "order": 30,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1032.0
+     ],
+     [
+      471.0,
+      1032.0
+     ],
+     [
+      471.0,
+      1053.0
+     ],
+     [
+      22.0,
+      1053.0
+     ]
+    ],
+    "text": "由光球疑源类Leiosphaeridiasp·，瘤面球藻类Lo",
+    "order": 31,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1063.0
+     ],
+     [
+      478.0,
+      1063.0
+     ],
+     [
+      478.0,
+      1085.0
+     ],
+     [
+      22.0,
+      1085.0
+     ]
+    ],
+    "text": "hosphaeridiumsp·，毛发球藻Comasphaeridium",
+    "order": 32,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      1094.0
+     ],
+     [
+      471.0,
+      1094.0
+     ],
+     [
+      471.0,
+      1116.0
+     ],
+     [
+      21.0,
+      1116.0
+     ]
+    ],
+    "text": "p·，葡萄藻Botryococcus，群体藻类或孢子(colo",
+    "order": 33,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      1125.0
+     ],
+     [
+      484.0,
+      1125.0
+     ],
+     [
+      484.0,
+      1147.0
+     ],
+     [
+      21.0,
+      1147.0
+     ]
+    ],
+    "text": "iesofalgaeor spores），藻类碎片和无定形有机质",
+    "order": 34,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      1156.0
+     ],
+     [
+      482.0,
+      1156.0
+     ],
+     [
+      482.0,
+      1177.0
+     ],
+     [
+      21.0,
+      1177.0
+     ]
+    ],
+    "text": "组成，这些化石的外壁非常薄而透明，在普通显微镜",
+    "order": 35,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1186.0
+     ],
+     [
+      357.0,
+      1186.0
+     ],
+     [
+      357.0,
+      1206.0
+     ],
+     [
+      22.0,
+      1206.0
+     ]
+    ],
+    "text": "下很难观察，因此借助了扫描显微镜。",
+    "order": 36,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      62.0,
+      1217.0
+     ],
+     [
+      489.0,
+      1215.0
+     ],
+     [
+      489.0,
+      1237.0
+     ],
+     [
+      62.0,
+      1239.0
+     ]
+    ],
+    "text": "群体藻类或孢子是由许多连接在一起的20一30",
+    "order": 37,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      1250.0
+     ],
+     [
+      486.0,
+      1250.0
+     ],
+     [
+      486.0,
+      1272.0
+     ],
+     [
+      21.0,
+      1272.0
+     ]
+    ],
+    "text": "Fm左右大小的个体组成，表面具有脑纹状纹饰，在",
+    "order": 38,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      1283.0
+     ],
+     [
+      486.0,
+      1283.0
+     ],
+     [
+      486.0,
+      1303.0
+     ],
+     [
+      22.0,
+      1303.0
+     ]
+    ],
+    "text": "扫描显微镜下可以看出这些纹饰有中间交叉的浅",
+    "order": 39,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      1314.0
+     ],
+     [
+      486.0,
+      1314.0
+     ],
+     [
+      486.0,
+      1335.0
+     ],
+     [
+      21.0,
+      1335.0
+     ]
+    ],
+    "text": "沟。葡萄藻Botryococcus在普通光学显微镜下为淡",
+    "order": 40,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      1343.0
+     ],
+     [
+      484.0,
+      1343.0
+     ],
+     [
+      484.0,
+      1365.0
+     ],
+     [
+      19.0,
+      1365.0
+     ]
+    ],
+    "text": "褐色，表面光滑，在100m左右或者更大：光球疑源",
+    "order": 41,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      520.0,
+      22.0
+     ],
+     [
+      987.0,
+      19.0
+     ],
+     [
+      987.0,
+      45.0
+     ],
+     [
+      521.0,
+      48.0
+     ]
+    ],
+    "text": "类Leiosphaeridiasp·在10一50Pm之间；瘤面球藻类",
+    "order": 42,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      53.0
+     ],
+     [
+      988.0,
+      51.0
+     ],
+     [
+      989.0,
+      78.0
+     ],
+     [
+      524.0,
+      80.0
+     ]
+    ],
+    "text": "Lophosphaeridiumsp·在10一20μm之间，表面有瘤",
+    "order": 43,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      83.0
+     ],
+     [
+      985.0,
+      84.0
+     ],
+     [
+      985.0,
+      111.0
+     ],
+     [
+      522.0,
+      109.0
+     ]
+    ],
+    "text": "状突起，瘤状突起小于1m；毛发球藻Comasphae",
+    "order": 44,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      115.0
+     ],
+     [
+      998.0,
+      112.0
+     ],
+     [
+      998.0,
+      139.0
+     ],
+     [
+      524.0,
+      142.0
+     ]
+    ],
+    "text": "idium sp·在10一20μm之间，表面有丝状突起，丝状",
+    "order": 45,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      148.0
+     ],
+     [
+      717.0,
+      148.0
+     ],
+     [
+      717.0,
+      170.0
+     ],
+     [
+      525.0,
+      170.0
+     ]
+    ],
+    "text": "突起在1一2Hm之间。",
+    "order": 46,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      563.0,
+      181.0
+     ],
+     [
+      998.0,
+      181.0
+     ],
+     [
+      998.0,
+      201.0
+     ],
+     [
+      563.0,
+      201.0
+     ]
+    ],
+    "text": "图1(áa）中显示荧光下的葡萄藻和群体藻类或",
+    "order": 47,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      212.0
+     ],
+     [
+      996.0,
+      212.0
+     ],
+     [
+      996.0,
+      232.0
+     ],
+     [
+      524.0,
+      232.0
+     ]
+    ],
+    "text": "孢子；图1b)中显示的为群体藻类或孢子的扫描电",
+    "order": 48,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      243.0
+     ],
+     [
+      996.0,
+      243.0
+     ],
+     [
+      996.0,
+      263.0
+     ],
+     [
+      525.0,
+      263.0
+     ]
+    ],
+    "text": "镜照片；图1c）显示的是葡萄藻的单个个体的光学",
+    "order": 49,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      276.0
+     ],
+     [
+      998.0,
+      276.0
+     ],
+     [
+      998.0,
+      296.0
+     ],
+     [
+      525.0,
+      296.0
+     ]
+    ],
+    "text": "显微镜照片；图2(a）中显示研究的疑源类有机壁均",
+    "order": 50,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      307.0
+     ],
+     [
+      1000.0,
+      307.0
+     ],
+     [
+      1000.0,
+      327.0
+     ],
+     [
+      527.0,
+      327.0
+     ]
+    ],
+    "text": "显示了良好的自发荧光，而且随属种的不同而有所",
+    "order": 51,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      338.0
+     ],
+     [
+      993.0,
+      338.0
+     ],
+     [
+      993.0,
+      358.0
+     ],
+     [
+      527.0,
+      358.0
+     ]
+    ],
+    "text": "变化；图2b）显示的是在扫描电镜下的疑源类毛发",
+    "order": 52,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      369.0
+     ],
+     [
+      996.0,
+      369.0
+     ],
+     [
+      996.0,
+      391.0
+     ],
+     [
+      525.0,
+      391.0
+     ]
+    ],
+    "text": "球藻Comasphaeridiumsp·的照片；图2(e）为光球",
+    "order": 53,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      399.0
+     ],
+     [
+      995.0,
+      399.0
+     ],
+     [
+      995.0,
+      421.0
+     ],
+     [
+      525.0,
+      421.0
+     ]
+    ],
+    "text": "凝源类Leiosphaeridiasp·；图2f）为瘤面球藻类",
+    "order": 54,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      433.0
+     ],
+     [
+      995.0,
+      433.0
+     ],
+     [
+      995.0,
+      455.0
+     ],
+     [
+      527.0,
+      455.0
+     ]
+    ],
+    "text": "Lophosphaeridiumsp·；图3(a）显示的是镜质体",
+    "order": 55,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      528.0,
+      463.0
+     ],
+     [
+      993.0,
+      463.0
+     ],
+     [
+      993.0,
+      483.0
+     ],
+     [
+      528.0,
+      483.0
+     ]
+    ],
+    "text": "（高等植物碎片)的荧光；图3(b）显示的是扫描电镜",
+    "order": 56,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      494.0
+     ],
+     [
+      657.0,
+      494.0
+     ],
+     [
+      657.0,
+      516.0
+     ],
+     [
+      527.0,
+      516.0
+     ]
+    ],
+    "text": "下的植物碎片。",
+    "order": 57,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      563.0,
+      525.0
+     ],
+     [
+      992.0,
+      525.0
+     ],
+     [
+      992.0,
+      545.0
+     ],
+     [
+      563.0,
+      545.0
+     ]
+    ],
+    "text": "这些化石材料的荧光变化不能归结于保存的状",
+    "order": 58,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      558.0
+     ],
+     [
+      993.0,
+      558.0
+     ],
+     [
+      993.0,
+      578.0
+     ],
+     [
+      525.0,
+      578.0
+     ]
+    ],
+    "text": "况，因为(1)荧光的强度明显沿着不同疑源类的外",
+    "order": 59,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      589.0
+     ],
+     [
+      993.0,
+      589.0
+     ],
+     [
+      993.0,
+      609.0
+     ],
+     [
+      525.0,
+      609.0
+     ]
+    ],
+    "text": "壁；(2)在透射光显微镜下，并没有发现这些化石的",
+    "order": 60,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      620.0
+     ],
+     [
+      677.0,
+      620.0
+     ],
+     [
+      677.0,
+      640.0
+     ],
+     [
+      525.0,
+      640.0
+     ]
+    ],
+    "text": "保存有明显区别。",
+    "order": 61,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      565.0,
+      653.0
+     ],
+     [
+      993.0,
+      653.0
+     ],
+     [
+      993.0,
+      673.0
+     ],
+     [
+      565.0,
+      673.0
+     ]
+    ],
+    "text": "根据荧光强度，可以初步将这些疑源类和藻类",
+    "order": 62,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      683.0
+     ],
+     [
+      657.0,
+      683.0
+     ],
+     [
+      657.0,
+      704.0
+     ],
+     [
+      524.0,
+      704.0
+     ]
+    ],
+    "text": "分成三个类型：",
+    "order": 63,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      563.0,
+      712.0
+     ],
+     [
+      993.0,
+      715.0
+     ],
+     [
+      993.0,
+      737.0
+     ],
+     [
+      563.0,
+      734.0
+     ]
+    ],
+    "text": "1.具强荧光的类型。强烈的高亮度的黄色荧光",
+    "order": 64,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      746.0
+     ],
+     [
+      993.0,
+      746.0
+     ],
+     [
+      993.0,
+      767.0
+     ],
+     [
+      527.0,
+      767.0
+     ]
+    ],
+    "text": "下，已经看不出表面的纹饰和体壁，只能见到强烈黄",
+    "order": 65,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      778.0
+     ],
+     [
+      993.0,
+      778.0
+     ],
+     [
+      993.0,
+      799.0
+     ],
+     [
+      525.0,
+      799.0
+     ]
+    ],
+    "text": "色发光藻体的外形轮廓。如图1中显示的葡萄藻类",
+    "order": 66,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      807.0
+     ],
+     [
+      830.0,
+      809.0
+     ],
+     [
+      830.0,
+      831.0
+     ],
+     [
+      524.0,
+      829.0
+     ]
+    ],
+    "text": "和群体藻类或孢子（放大200倍）。",
+    "order": 67,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      562.0,
+      838.0
+     ],
+     [
+      996.0,
+      842.0
+     ],
+     [
+      996.0,
+      863.0
+     ],
+     [
+      562.0,
+      860.0
+     ]
+    ],
+    "text": "2.具良好荧光的类型。荧光浅黄褐色，一般出",
+    "order": 68,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      873.0
+     ],
+     [
+      996.0,
+      873.0
+     ],
+     [
+      996.0,
+      893.0
+     ],
+     [
+      524.0,
+      893.0
+     ]
+    ],
+    "text": "现在具纹饰的藻体上。如图2(b）中显示的毛发球",
+    "order": 69,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      904.0
+     ],
+     [
+      993.0,
+      904.0
+     ],
+     [
+      993.0,
+      924.0
+     ],
+     [
+      525.0,
+      924.0
+     ]
+    ],
+    "text": "藻。可以发现这些毛发球藻上的外壁的小刺也发出",
+    "order": 70,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      935.0
+     ],
+     [
+      995.0,
+      935.0
+     ],
+     [
+      995.0,
+      955.0
+     ],
+     [
+      525.0,
+      955.0
+     ]
+    ],
+    "text": "黄色的荧光，表明这些小刺和外壁具有相同的化学",
+    "order": 71,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      966.0
+     ],
+     [
+      793.0,
+      966.0
+     ],
+     [
+      793.0,
+      986.0
+     ],
+     [
+      527.0,
+      986.0
+     ]
+    ],
+    "text": "成分，这些小刺是原生的装饰。",
+    "order": 72,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      562.0,
+      996.0
+     ],
+     [
+      987.0,
+      997.0
+     ],
+     [
+      987.0,
+      1019.0
+     ],
+     [
+      562.0,
+      1018.0
+     ]
+    ],
+    "text": "3.具弱荧光的类型。包括弱荧光的干酪根碎片",
+    "order": 73,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1030.0
+     ],
+     [
+      993.0,
+      1030.0
+     ],
+     [
+      993.0,
+      1050.0
+     ],
+     [
+      525.0,
+      1050.0
+     ]
+    ],
+    "text": "和降解后的微化石，后者在荧光减弱的同时，荧光颜",
+    "order": 74,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1061.0
+     ],
+     [
+      993.0,
+      1061.0
+     ],
+     [
+      993.0,
+      1081.0
+     ],
+     [
+      525.0,
+      1081.0
+     ]
+    ],
+    "text": "色加深，在透射光下可加深至褐色、棕色。如图3为",
+    "order": 75,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1092.0
+     ],
+     [
+      993.0,
+      1092.0
+     ],
+     [
+      993.0,
+      1113.0
+     ],
+     [
+      525.0,
+      1113.0
+     ]
+    ],
+    "text": "弱荧光的结构镜质体。以上观察结果，与前人对孢",
+    "order": 76,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1124.0
+     ],
+     [
+      993.0,
+      1124.0
+     ],
+     [
+      993.0,
+      1145.0
+     ],
+     [
+      525.0,
+      1145.0
+     ]
+    ],
+    "text": "粉荧光的研究结果非常吻合（McPhilemy，1988；",
+    "order": 77,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      1155.0
+     ],
+     [
+      993.0,
+      1155.0
+     ],
+     [
+      993.0,
+      1177.0
+     ],
+     [
+      527.0,
+      1177.0
+     ]
+    ],
+    "text": "Calyzina，1998）。McPhilemy对早石炭世的有机质",
+    "order": 78,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1187.0
+     ],
+     [
+      993.0,
+      1187.0
+     ],
+     [
+      993.0,
+      1208.0
+     ],
+     [
+      525.0,
+      1208.0
+     ]
+    ],
+    "text": "的荧光研究发现，保存非常好的孢粉、角质层和藻",
+    "order": 79,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1219.0
+     ],
+     [
+      996.0,
+      1219.0
+     ],
+     [
+      996.0,
+      1240.0
+     ],
+     [
+      525.0,
+      1240.0
+     ]
+    ],
+    "text": "类，包括草绿藻Tasmanitessp·，都具有非常高的荧",
+    "order": 80,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      1250.0
+     ],
+     [
+      992.0,
+      1250.0
+     ],
+     [
+      992.0,
+      1270.0
+     ],
+     [
+      524.0,
+      1270.0
+     ]
+    ],
+    "text": "光，具刺和突起的疑源类都有相对较弱的荧光。降",
+    "order": 81,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      1281.0
+     ],
+     [
+      995.0,
+      1279.0
+     ],
+     [
+      995.0,
+      1301.0
+     ],
+     [
+      524.0,
+      1303.0
+     ]
+    ],
+    "text": "解比较严重的化石，透射光显微镜下为黑褐色的疑",
+    "order": 82,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      1312.0
+     ],
+     [
+      651.0,
+      1312.0
+     ],
+     [
+      651.0,
+      1334.0
+     ],
+     [
+      524.0,
+      1334.0
+     ]
+    ],
+    "text": "源类不具荧光",
+    "order": 83,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1117,
+   1496
+  ],
+  "position": [
+   [
+    5,
+    17,
+    22,
+    1
+   ],
+   [
+    6,
+    -1,
+    10,
+    1
+   ],
+   [
+    16,
+    4,
+    15,
+    1
+   ],
+   [
+    16,
+    16,
+    31,
+    1
+   ],
+   [
+    16,
+    32,
+    40,
+    1
+   ],
+   [
+    17,
+    -1,
+    8,
+    1
+   ],
+   [
+    17,
+    9,
+    23,
+    1
+   ],
+   [
+    75,
+    13,
+    27,
+    1
+   ],
+   [
+    76,
+    0,
+    13,
+    1
+   ]
+  ]
+ },
+ {
+  "image_id": 2,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      67.0,
+      254.0
+     ],
+     [
+      497.0,
+      252.0
+     ],
+     [
+      497.0,
+      274.0
+     ],
+     [
+      67.0,
+      276.0
+     ]
+    ],
+    "text": "图1（a）荧光下的葡萄藻和群体藻类（具有强烈的荧光）；",
+    "order": 1,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": true,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      68.0,
+      277.0
+     ],
+     [
+      638.0,
+      279.0
+     ],
+     [
+      638.0,
+      301.0
+     ],
+     [
+      68.0,
+      299.0
+     ]
+    ],
+    "text": "图1（b)扫描电镜下的群体藻类（具有脑纹状表面纹饰，并有交叉的浅沟）；",
+    "order": 2,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      70.0,
+      304.0
+     ],
+     [
+      301.0,
+      304.0
+     ],
+     [
+      301.0,
+      324.0
+     ],
+     [
+      70.0,
+      324.0
+     ]
+    ],
+    "text": "图1（c）光学显微镜下的葡萄藻",
+    "order": 3,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      70.0,
+      329.0
+     ],
+     [
+      811.0,
+      329.0
+     ],
+     [
+      811.0,
+      351.0
+     ],
+     [
+      70.0,
+      351.0
+     ]
+    ],
+    "text": "Fig.1(a)Botryococcus and colonies of fresh algae under Fluorescence Microscopy(with highest fluorescence);",
+    "order": 4,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      68.0,
+      352.0
+     ],
+     [
+      747.0,
+      354.0
+     ],
+     [
+      747.0,
+      376.0
+     ],
+     [
+      68.0,
+      374.0
+     ]
+    ],
+    "text": "Fig.1(b) colonies of fresh algae under SEM(with brain surface texture ornament and shallow groove);",
+    "order": 5,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      65.0,
+      377.0
+     ],
+     [
+      478.0,
+      379.0
+     ],
+     [
+      478.0,
+      401.0
+     ],
+     [
+      65.0,
+      399.0
+     ]
+    ],
+    "text": "Fig.1(c)BotryococcusunderTransmittedLightMicroscopy",
+    "order": 6,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      893.0
+     ],
+     [
+      958.0,
+      893.0
+     ],
+     [
+      958.0,
+      919.0
+     ],
+     [
+      44.0,
+      919.0
+     ]
+    ],
+    "text": "图2（a）为光学显微镜下的疑源类毛发球藻Comasphaeridium sp.，图（b）为其荧光照片；图（c）为毛发球藻Comasphaeridium sp.",
+    "order": 7,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": true,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      49.0,
+      919.0
+     ],
+     [
+      958.0,
+      919.0
+     ],
+     [
+      958.0,
+      941.0
+     ],
+     [
+      49.0,
+      941.0
+     ]
+    ],
+    "text": "的扫描照片；图（e）为光球疑源类Leiosphaeridiasp.扫描照片；图（f）瘤面球藻Lophosphaeridiumsp.的扫描照片。疑源类这个",
+    "order": 8,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      49.0,
+      944.0
+     ],
+     [
+      481.0,
+      944.0
+     ],
+     [
+      481.0,
+      965.0
+     ],
+     [
+      49.0,
+      965.0
+     ]
+    ],
+    "text": "类群的荧光为中等，要小于葡萄藻和群体藻类的强烈荧光。",
+    "order": 9,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      46.0,
+      969.0
+     ],
+     [
+      689.0,
+      971.0
+     ],
+     [
+      689.0,
+      993.0
+     ],
+     [
+      46.0,
+      991.0
+     ]
+    ],
+    "text": "Fig.2AcritarchsinYanchangFormation,withmoderatefluorescencecompared toBotryococcus",
+    "order": 10,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      49.0,
+      996.0
+     ],
+     [
+      898.0,
+      996.0
+     ],
+     [
+      898.0,
+      1018.0
+     ],
+     [
+      49.0,
+      1018.0
+     ]
+    ],
+    "text": "(a):Comasphaeridium sp.underTransimitted Light Microscopy;(b):Comasphaeridium sp.underFluorescence Microscopy;",
+    "order": 11,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      27.0,
+      1234.0
+     ],
+     [
+      449.0,
+      1234.0
+     ],
+     [
+      449.0,
+      1254.0
+     ],
+     [
+      27.0,
+      1254.0
+     ]
+    ],
+    "text": "图3（a）在荧光下镜质体（来自陆地高等植物碎片）的荧光；",
+    "order": 12,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": true,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      25.0,
+      1258.0
+     ],
+     [
+      343.0,
+      1256.0
+     ],
+     [
+      343.0,
+      1278.0
+     ],
+     [
+      25.0,
+      1279.0
+     ]
+    ],
+    "text": "图3（b）为扫描电镜下样品中发现的植物碎片",
+    "order": 13,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      29.0,
+      1284.0
+     ],
+     [
+      478.0,
+      1284.0
+     ],
+     [
+      478.0,
+      1306.0
+     ],
+     [
+      29.0,
+      1306.0
+     ]
+    ],
+    "text": "Fig.3(a)highland plant remnant underFluorescenceMicroscopy,with",
+    "order": 14,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      83.0,
+      1309.0
+     ],
+     [
+      417.0,
+      1309.0
+     ],
+     [
+      417.0,
+      1331.0
+     ],
+     [
+      83.0,
+      1331.0
+     ]
+    ],
+    "text": "low fluorescence compared to other organicmatters;",
+    "order": 15,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      56.0,
+      1334.0
+     ],
+     [
+      452.0,
+      1334.0
+     ],
+     [
+      452.0,
+      1354.0
+     ],
+     [
+      56.0,
+      1354.0
+     ]
+    ],
+    "text": "(b）highlandplant remnantYanchangFormation underSEM",
+    "order": 16,
+    "need-info": false,
+    "region_type": "figure_caption",
+    "new_line": false,
+    "structure_function": "figure_caption"
+   },
+   {
+    "text_region": [
+     [
+      565.0,
+      1075.0
+     ],
+     [
+      982.0,
+      1075.0
+     ],
+     [
+      982.0,
+      1096.0
+     ],
+     [
+      565.0,
+      1096.0
+     ]
+    ],
+    "text": "研究发现，湖相藻类、葡萄藻类和孢子具有非常",
+    "order": 17,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      1106.0
+     ],
+     [
+      984.0,
+      1106.0
+     ],
+     [
+      984.0,
+      1127.0
+     ],
+     [
+      527.0,
+      1127.0
+     ]
+    ],
+    "text": "高的荧光强度；疑源类（毛发球藻类等）具有较强的",
+    "order": 18,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1134.0
+     ],
+     [
+      990.0,
+      1138.0
+     ],
+     [
+      990.0,
+      1158.0
+     ],
+     [
+      525.0,
+      1155.0
+     ]
+    ],
+    "text": "荧光；而植物干酪根碎屑或经过降解的样品仅具有",
+    "order": 19,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1167.0
+     ],
+     [
+      987.0,
+      1167.0
+     ],
+     [
+      987.0,
+      1187.0
+     ],
+     [
+      525.0,
+      1187.0
+     ]
+    ],
+    "text": "微弱的荧光。今后可以通过荧光细胞分流仪，对各",
+    "order": 20,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      525.0,
+      1198.0
+     ],
+     [
+      990.0,
+      1198.0
+     ],
+     [
+      990.0,
+      1219.0
+     ],
+     [
+      525.0,
+      1219.0
+     ]
+    ],
+    "text": "种具不同荧光特性的化石，进行定量研究，帮助我们",
+    "order": 21,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      1226.0
+     ],
+     [
+      990.0,
+      1228.0
+     ],
+     [
+      990.0,
+      1250.0
+     ],
+     [
+      524.0,
+      1248.0
+     ]
+    ],
+    "text": "对这些微体化石藻类进行系统学的分类；而且可以",
+    "order": 22,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      524.0,
+      1259.0
+     ],
+     [
+      988.0,
+      1259.0
+     ],
+     [
+      988.0,
+      1279.0
+     ],
+     [
+      524.0,
+      1279.0
+     ]
+    ],
+    "text": "通过荧光细胞分流仪对微体化石进行分选，从而满",
+    "order": 23,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      527.0,
+      1290.0
+     ],
+     [
+      990.0,
+      1290.0
+     ],
+     [
+      990.0,
+      1312.0
+     ],
+     [
+      527.0,
+      1312.0
+     ]
+    ],
+    "text": "足开展微体化石的超微切片和生物标志物分析的实",
+    "order": 24,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      1318.0
+     ],
+     [
+      976.0,
+      1318.0
+     ],
+     [
+      976.0,
+      1345.0
+     ],
+     [
+      522.0,
+      1345.0
+     ]
+    ],
+    "text": "验技术要求（Talyzinaetal·，2000;Mengetal·",
+    "order": 25,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      1346.0
+     ],
+     [
+      585.0,
+      1352.0
+     ],
+     [
+      582.0,
+      1374.0
+     ],
+     [
+      520.0,
+      1368.0
+     ]
+    ],
+    "text": "2005）。",
+    "order": 26,
+    "need-info": true,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     62,
+     12,
+     960,
+     250
+    ],
+    "need-info": false,
+    "region_type": "figure",
+    "new_line": false,
+    "structure_function": "figure",
+    "order": 1
+   },
+   {
+    "text_region": [
+     62,
+     401,
+     931,
+     883
+    ],
+    "need-info": false,
+    "region_type": "figure",
+    "new_line": false,
+    "structure_function": "figure",
+    "order": 1
+   },
+   {
+    "text_region": [
+     32,
+     1065,
+     465,
+     1226
+    ],
+    "need-info": false,
+    "region_type": "figure",
+    "new_line": false,
+    "structure_function": "figure",
+    "order": 1
+   }
+  ],
+  "image_size": [
+   1117,
+   1496
+  ],
+  "position": [
+   [
+    24,
+    6,
+    24,
+    1
+   ]
+  ]
+ },
+ {
+  "image_id": 3,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      19.0,
+      20.0
+     ],
+     [
+      103.0,
+      20.0
+     ],
+     [
+      103.0,
+      48.0
+     ],
+     [
+      19.0,
+      48.0
+     ]
+    ],
+    "text": "参考文献",
+    "order": 1,
+    "need-info": true,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      17.0,
+      73.0
+     ],
+     [
+      484.0,
+      73.0
+     ],
+     [
+      484.0,
+      94.0
+     ],
+     [
+      17.0,
+      94.0
+     ]
+    ],
+    "text": "长庆油田石油地质志编写组，1992.中国石油地质志（卷十二）·长庆",
+    "order": 2,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      51.0,
+      98.0
+     ],
+     [
+      316.0,
+      98.0
+     ],
+     [
+      316.0,
+      118.0
+     ],
+     [
+      51.0,
+      118.0
+     ]
+    ],
+    "text": "油田·北京：石油工业出版社.124－145",
+    "order": 3,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      126.0
+     ],
+     [
+      492.0,
+      126.0
+     ],
+     [
+      492.0,
+      146.0
+     ],
+     [
+      21.0,
+      146.0
+     ]
+    ],
+    "text": "付金华，罗安湘，喻建等，2004.西峰油田成藏地质特征及勘探方",
+    "order": 4,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      49.0,
+      151.0
+     ],
+     [
+      244.0,
+      150.0
+     ],
+     [
+      244.0,
+      170.0
+     ],
+     [
+      49.0,
+      171.0
+     ]
+    ],
+    "text": "向·石油学报，25(2)：24一29",
+    "order": 5,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      21.0,
+      178.0
+     ],
+     [
+      482.0,
+      178.0
+     ],
+     [
+      482.0,
+      198.0
+     ],
+     [
+      21.0,
+      198.0
+     ]
+    ],
+    "text": "中国地质科学院地质研究所，1980.陕甘宁盆地中生代地层古生物·",
+    "order": 6,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      49.0,
+      203.0
+     ],
+     [
+      259.0,
+      203.0
+     ],
+     [
+      259.0,
+      223.0
+     ],
+     [
+      49.0,
+      223.0
+     ]
+    ],
+    "text": "上册·北京：地质出版社.2一29",
+    "order": 7,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      232.0
+     ],
+     [
+      486.0,
+      232.0
+     ],
+     [
+      486.0,
+      252.0
+     ],
+     [
+      19.0,
+      252.0
+     ]
+    ],
+    "text": "COMPILATORY TEAM OF CHANGOING OIL FIELD PETRO-",
+    "order": 8,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      46.0,
+      259.0
+     ],
+     [
+      482.0,
+      259.0
+     ],
+     [
+      482.0,
+      279.0
+     ],
+     [
+      46.0,
+      279.0
+     ]
+    ],
+    "text": "LEU M GEOLOGICAL RECORDS，1992. Chinese Petroleum",
+    "order": 9,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      48.0,
+      285.0
+     ],
+     [
+      476.0,
+      285.0
+     ],
+     [
+      476.0,
+      305.0
+     ],
+     [
+      48.0,
+      305.0
+     ]
+    ],
+    "text": "Geological Records (volu me 12) :Changqing Oilfield -Beijing :Pe",
+    "order": 10,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      43.0,
+      310.0
+     ],
+     [
+      365.0,
+      310.0
+     ],
+     [
+      365.0,
+      330.0
+     ],
+     [
+      43.0,
+      330.0
+     ]
+    ],
+    "text": "troleu m Industry Press .124 — 145án Chinese )",
+    "order": 11,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      337.0
+     ],
+     [
+      478.0,
+      337.0
+     ],
+     [
+      478.0,
+      358.0
+     ],
+     [
+      19.0,
+      358.0
+     ]
+    ],
+    "text": "F U Jinhua ·LUO Anxiang YU Jian et al ., 2004.Geological feat ures",
+    "order": 12,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      365.0
+     ],
+     [
+      479.0,
+      365.0
+     ],
+     [
+      479.0,
+      385.0
+     ],
+     [
+      44.0,
+      385.0
+     ]
+    ],
+    "text": "of reservoir for mation and exploration strategy of Xifeng Oil ",
+    "order": 13,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      43.0,
+      390.0
+     ],
+     [
+      486.0,
+      390.0
+     ],
+     [
+      486.0,
+      410.0
+     ],
+     [
+      43.0,
+      410.0
+     ]
+    ],
+    "text": "field ·Acta Petroleum Sinica ,25 (2): 24—29 Gin Chinese with",
+    "order": 14,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      48.0,
+      419.0
+     ],
+     [
+      168.0,
+      419.0
+     ],
+     [
+      168.0,
+      435.0
+     ],
+     [
+      48.0,
+      435.0
+     ]
+    ],
+    "text": "English abstract )",
+    "order": 15,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      18.0,
+      441.0
+     ],
+     [
+      478.0,
+      443.0
+     ],
+     [
+      478.0,
+      464.0
+     ],
+     [
+      17.0,
+      463.0
+     ]
+    ],
+    "text": "HA VIN G A A J . 1971.An experi mental investigation into the decay",
+    "order": 16,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      46.0,
+      471.0
+     ],
+     [
+      482.0,
+      471.0
+     ],
+     [
+      482.0,
+      491.0
+     ],
+     [
+      46.0,
+      491.0
+     ]
+    ],
+    "text": "of pollen and spores in various soil types In :Brooks J :Grant P",
+    "order": 17,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      46.0,
+      494.0
+     ],
+     [
+      476.0,
+      496.0
+     ],
+     [
+      476.0,
+      517.0
+     ],
+     [
+      46.0,
+      516.0
+     ]
+    ],
+    "text": "R .Muir M D .Van Gijzel ,P Sha w (Eds -)·Sporopollenin ·Lon",
+    "order": 18,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      519.0
+     ],
+     [
+      260.0,
+      519.0
+     ],
+     [
+      260.0,
+      539.0
+     ],
+     [
+      44.0,
+      539.0
+     ]
+    ],
+    "text": "don :Acade mic Press .446—479",
+    "order": 19,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      19.0,
+      549.0
+     ],
+     [
+      476.0,
+      549.0
+     ],
+     [
+      476.0,
+      569.0
+     ],
+     [
+      19.0,
+      569.0
+     ]
+    ],
+    "text": "HA YES J M ,KAPL ANI R , WEDEKI NG W ,1983.Preca mbrian Or ",
+    "order": 20,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      575.0
+     ],
+     [
+      482.0,
+      573.0
+     ],
+     [
+      482.0,
+      595.0
+     ],
+     [
+      44.0,
+      597.0
+     ]
+    ],
+    "text": "ganic Geoche mistry · Preservation of the Record In :Schopf J W",
+    "order": 21,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      51.0,
+      602.0
+     ],
+     [
+      481.0,
+      602.0
+     ],
+     [
+      481.0,
+      622.0
+     ],
+     [
+      51.0,
+      622.0
+     ]
+    ],
+    "text": "(Ed ·) ·Earth 's Earliest Biosphere -Princeton N J :Princeton U-",
+    "order": 22,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      630.0
+     ],
+     [
+      215.0,
+      625.0
+     ],
+     [
+      216.0,
+      645.0
+     ],
+     [
+      45.0,
+      650.0
+     ]
+    ],
+    "text": "niversity Press .93—134",
+    "order": 23,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      22.0,
+      654.0
+     ],
+     [
+      479.0,
+      654.0
+     ],
+     [
+      479.0,
+      675.0
+     ],
+     [
+      22.0,
+      675.0
+     ]
+    ],
+    "text": "NSTITUTE OF GEOLOGY,CHINESE ACADEMY OF GEO",
+    "order": 24,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      679.0
+     ],
+     [
+      478.0,
+      681.0
+     ],
+     [
+      478.0,
+      703.0
+     ],
+     [
+      44.0,
+      701.0
+     ]
+    ],
+    "text": "LOGI CAL SCI ENCES ,1980.Shanganning Basin Mesozoic Stra ",
+    "order": 25,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      44.0,
+      707.0
+     ],
+     [
+      476.0,
+      707.0
+     ],
+     [
+      476.0,
+      728.0
+     ],
+     [
+      44.0,
+      728.0
+     ]
+    ],
+    "text": "tigraphy and Palaeont ology - Volu me 1. Beijing : Geology Press ",
+    "order": 26,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      48.0,
+      734.0
+     ],
+     [
+      178.0,
+      734.0
+     ],
+     [
+      178.0,
+      754.0
+     ],
+     [
+      48.0,
+      754.0
+     ]
+    ],
+    "text": "2— 29(n Chinese )",
+    "order": 27,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      16.0,
+      757.0
+     ],
+     [
+      481.0,
+      759.0
+     ],
+     [
+      481.0,
+      781.0
+     ],
+     [
+      16.0,
+      779.0
+     ]
+    ],
+    "text": "MCPHI LE MY B, 1988. The value of fluorescence microscopy in",
+    "order": 28,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      551.0,
+      25.0
+     ],
+     [
+      960.0,
+      25.0
+     ],
+     [
+      960.0,
+      41.0
+     ],
+     [
+      551.0,
+      41.0
+     ]
+    ],
+    "text": "routine pal ynofacies analysis : Lo we Carboniferous successie",
+    "order": 29,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      547.0,
+      48.0
+     ],
+     [
+      979.0,
+      48.0
+     ],
+     [
+      979.0,
+      69.0
+     ],
+     [
+      547.0,
+      69.0
+     ]
+    ],
+    "text": "fro m Counties Ar magh and Rosco m mo m - Ireland . Revie w of",
+    "order": 30,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      546.0,
+      72.0
+     ],
+     [
+      858.0,
+      70.0
+     ],
+     [
+      858.0,
+      97.0
+     ],
+     [
+      546.0,
+      98.0
+     ]
+    ],
+    "text": "Palaeobotany and Palynology . 56: 345—359",
+    "order": 31,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      517.0,
+      98.0
+     ],
+     [
+      985.0,
+      97.0
+     ],
+     [
+      985.0,
+      123.0
+     ],
+     [
+      517.0,
+      125.0
+     ]
+    ],
+    "text": "MENG Fanwei , ZHOU Chuanming . YIN Lei ming et al ., 2005",
+    "order": 32,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      551.0,
+      128.0
+     ],
+     [
+      987.0,
+      128.0
+     ],
+     [
+      987.0,
+      148.0
+     ],
+     [
+      551.0,
+      148.0
+     ]
+    ],
+    "text": "The ol dest kno wn dinoflagellates : Mor phol ogical and molecular",
+    "order": 33,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      547.0,
+      154.0
+     ],
+     [
+      982.0,
+      154.0
+     ],
+     [
+      982.0,
+      175.0
+     ],
+     [
+      547.0,
+      175.0
+     ]
+    ],
+    "text": "evidence fro m Mesoproterozoic rocks at Yongji , Shanxi Prov",
+    "order": 34,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      546.0,
+      179.0
+     ],
+     [
+      912.0,
+      179.0
+     ],
+     [
+      912.0,
+      199.0
+     ],
+     [
+      546.0,
+      199.0
+     ]
+    ],
+    "text": "ince .Chinese Science Bulletin , 50(12):1230—1234",
+    "order": 35,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      519.0,
+      204.0
+     ],
+     [
+      987.0,
+      207.0
+     ],
+     [
+      987.0,
+      229.0
+     ],
+     [
+      519.0,
+      226.0
+     ]
+    ],
+    "text": "ROBERT P , 1981. Classification of organic matter by means of fluo",
+    "order": 36,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      549.0,
+      235.0
+     ],
+     [
+      987.0,
+      235.0
+     ],
+     [
+      987.0,
+      251.0
+     ],
+     [
+      549.0,
+      251.0
+     ]
+    ],
+    "text": "rescence : application to hydrocar bon source rocks -I nternational",
+    "order": 37,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      546.0,
+      257.0
+     ],
+     [
+      806.0,
+      256.0
+     ],
+     [
+      806.0,
+      277.0
+     ],
+     [
+      546.0,
+      279.0
+     ]
+    ],
+    "text": "Journal of Coal Geology ,1:101—137",
+    "order": 38,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      522.0,
+      284.0
+     ],
+     [
+      984.0,
+      284.0
+     ],
+     [
+      984.0,
+      305.0
+     ],
+     [
+      522.0,
+      305.0
+     ]
+    ],
+    "text": "T AL YZI N A N M , 1998. Fluorescence intensity in Early Ca mbrian",
+    "order": 39,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      549.0,
+      312.0
+     ],
+     [
+      977.0,
+      312.0
+     ],
+     [
+      977.0,
+      332.0
+     ],
+     [
+      549.0,
+      332.0
+     ]
+    ],
+    "text": "acrit archs fro m Est onia · Revie w of Palaeobot any and Palynol o",
+    "order": 40,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      546.0,
+      338.0
+     ],
+     [
+      679.0,
+      333.0
+     ],
+     [
+      679.0,
+      355.0
+     ],
+     [
+      546.0,
+      360.0
+     ]
+    ],
+    "text": "gy,100:99-108",
+    "order": 41,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      520.0,
+      365.0
+     ],
+     [
+      974.0,
+      365.0
+     ],
+     [
+      974.0,
+      385.0
+     ],
+     [
+      520.0,
+      385.0
+     ]
+    ],
+    "text": "TAL YZINA N M . MO DO WAN J M . JOHANNISSON A et al -",
+    "order": 42,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      551.0,
+      388.0
+     ],
+     [
+      987.0,
+      390.0
+     ],
+     [
+      987.0,
+      411.0
+     ],
+     [
+      551.0,
+      410.0
+     ]
+    ],
+    "text": "2000. Affinities of Early Ca mbrian aeritarchs studied by using",
+    "order": 43,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      551.0,
+      418.0
+     ],
+     [
+      977.0,
+      416.0
+     ],
+     [
+      977.0,
+      438.0
+     ],
+     [
+      551.0,
+      439.0
+     ]
+    ],
+    "text": "microscopy ·fluorescence flo w cyto metry and bio markers - Re",
+    "order": 44,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      547.0,
+      443.0
+     ],
+     [
+      904.0,
+      441.0
+     ],
+     [
+      904.0,
+      463.0
+     ],
+     [
+      547.0,
+      464.0
+     ]
+    ],
+    "text": "vie w of Palaeobotany and Palynology ,108:37—53",
+    "order": 45,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      519.0,
+      467.0
+     ],
+     [
+      976.0,
+      471.0
+     ],
+     [
+      976.0,
+      492.0
+     ],
+     [
+      519.0,
+      489.0
+     ]
+    ],
+    "text": "VAN GIJZEL P ,1967. Palynology and flurescence microscopy - Re",
+    "order": 46,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      546.0,
+      494.0
+     ],
+     [
+      888.0,
+      491.0
+     ],
+     [
+      889.0,
+      517.0
+     ],
+     [
+      546.0,
+      521.0
+     ]
+    ],
+    "text": "view of Palaeobotany and Palynology · 2: 49—79",
+    "order": 47,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      517.0,
+      517.0
+     ],
+     [
+      979.0,
+      519.0
+     ],
+     [
+      979.0,
+      545.0
+     ],
+     [
+      517.0,
+      544.0
+     ]
+    ],
+    "text": "VAN GIJZEL P. 1971. Review of the UVfluoscence mierophoto",
+    "order": 48,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      549.0,
+      550.0
+     ],
+     [
+      979.0,
+      549.0
+     ],
+     [
+      979.0,
+      570.0
+     ],
+     [
+      549.0,
+      572.0
+     ]
+    ],
+    "text": "metry of fresh and fossil exines and exosporia - In : Brocks J ",
+    "order": 49,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      552.0,
+      578.0
+     ],
+     [
+      981.0,
+      578.0
+     ],
+     [
+      981.0,
+      594.0
+     ],
+     [
+      552.0,
+      594.0
+     ]
+    ],
+    "text": "Grant PR，Muir MD,Van GijzelP.Shaw （Eds）",
+    "order": 50,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      547.0,
+      602.0
+     ],
+     [
+      895.0,
+      600.0
+     ],
+     [
+      895.0,
+      622.0
+     ],
+     [
+      547.0,
+      623.0
+     ]
+    ],
+    "text": "Sporopollen· London : Acade mic Press . 659—685",
+    "order": 51,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      520.0,
+      626.0
+     ],
+     [
+      984.0,
+      628.0
+     ],
+     [
+      984.0,
+      650.0
+     ],
+     [
+      520.0,
+      648.0
+     ]
+    ],
+    "text": "VAN GIJZEL P , 1981. Applications of the geo microphoto metry of",
+    "order": 52,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      547.0,
+      655.0
+     ],
+     [
+      979.0,
+      653.0
+     ],
+     [
+      979.0,
+      675.0
+     ],
+     [
+      547.0,
+      676.0
+     ]
+    ],
+    "text": "kerogen · solid hydrocarbons and crude oils to petroleu m explo",
+    "order": 53,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      549.0,
+      684.0
+     ],
+     [
+      982.0,
+      684.0
+     ],
+     [
+      982.0,
+      700.0
+     ],
+     [
+      549.0,
+      700.0
+     ]
+    ],
+    "text": "ration·In :Brooks ·J(Eds ),Organic Mat uration Studies and",
+    "order": 54,
+    "need-info": true,
+    "region_type": "reference",
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      54.0,
+      863.0
+     ],
+     [
+      944.0,
+      863.0
+     ],
+     [
+      944.0,
+      884.0
+     ],
+     [
+      54.0,
+      884.0
+     ]
+    ],
+    "text": "FLUORESCENCEINTENSITYINTRASSICACRTARCHSFROMTHEYANCHANG",
+    "order": 55,
+    "need-info": false,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      157.0,
+      899.0
+     ],
+     [
+      839.0,
+      899.0
+     ],
+     [
+      839.0,
+      915.0
+     ],
+     [
+      157.0,
+      915.0
+     ]
+    ],
+    "text": "FORMATIONOFTHEORDOSBASIN,NORTHWESTERNCHINA",
+    "order": 56,
+    "need-info": false,
+    "region_type": "title",
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      70.0,
+      988.0
+     ],
+     [
+      928.0,
+      986.0
+     ],
+     [
+      928.0,
+      1008.0
+     ],
+     [
+      70.0,
+      1010.0
+     ]
+    ],
+    "text": "1)Institute of Geology and Geophysics,Chinese Acade my of Sciences，Research Centre of Oil gas Resource，Lanzhou 73000C",
+    "order": 57,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      324.0,
+      1014.0
+     ],
+     [
+      676.0,
+      1013.0
+     ],
+     [
+      676.0,
+      1035.0
+     ],
+     [
+      324.0,
+      1036.0
+     ]
+    ],
+    "text": "2) China University of Geoscience，Wuhan 430074",
+    "order": 58,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      154.0,
+      1038.0
+     ],
+     [
+      844.0,
+      1036.0
+     ],
+     [
+      844.0,
+      1063.0
+     ],
+     [
+      154.0,
+      1064.0
+     ]
+    ],
+    "text": "3)Nanjing I nstitute of Geology and Palaeontology ,Chinese Acade my of Sciences ,Nanjing 210008",
+    "order": 59,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      57.0,
+      1120.0
+     ],
+     [
+      935.0,
+      1122.0
+     ],
+     [
+      935.0,
+      1144.0
+     ],
+     [
+      57.0,
+      1142.0
+     ]
+    ],
+    "text": "AbstractFluorescence properties of Early Ca mbrian acritarchs were investigated using Leica D M with a mercury",
+    "order": 60,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      62.0,
+      1150.0
+     ],
+     [
+      936.0,
+      1147.0
+     ],
+     [
+      936.0,
+      1169.0
+     ],
+     [
+      62.0,
+      1172.0
+     ]
+    ],
+    "text": "a mp - Well preserved aut ofluorescence properties sho w a correlation bet ween acritarchs morphology and the intensity",
+    "order": 61,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      62.0,
+      1178.0
+     ],
+     [
+      593.0,
+      1178.0
+     ],
+     [
+      593.0,
+      1200.0
+     ],
+     [
+      62.0,
+      1200.0
+     ]
+    ],
+    "text": "of organic cell walls and t wo groups of microf ossils are distinguished .",
+    "order": 62,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      60.0,
+      1209.0
+     ],
+     [
+      865.0,
+      1209.0
+     ],
+     [
+      865.0,
+      1231.0
+     ],
+     [
+      60.0,
+      1231.0
+     ]
+    ],
+    "text": "Key words acritarchs ，fluorescence，Yanchang For mation，Triassic，Ordos Basin，N W Chi na",
+    "order": 63,
+    "need-info": false,
+    "region_type": "text",
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1117,
+   1496
+  ],
+  "position": []
+ }
+]
