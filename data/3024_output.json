@@ -1,0 +1,5362 @@
+[
+ {
+  "pdf": "3024",
+  "image_id": 0,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      186.0,
+      231.0
+     ],
+     [
+      1019.0,
+      231.0
+     ],
+     [
+      1019.0,
+      258.0
+     ],
+     [
+      186.0,
+      258.0
+     ]
+    ],
+    "text": "中国式现代化背景下馆藏档案开放审核协同机制的构建策略研究",
+    "order": 1,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      585.0,
+      291.0
+     ],
+     [
+      673.0,
+      291.0
+     ],
+     [
+      673.0,
+      324.0
+     ],
+     [
+      585.0,
+      324.0
+     ]
+    ],
+    "text": "孙云红",
+    "order": 2,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "author"
+   },
+   {
+    "text_region": [
+     [
+      356.0,
+      356.0
+     ],
+     [
+      905.0,
+      356.0
+     ],
+     [
+      905.0,
+      382.0
+     ],
+     [
+      356.0,
+      382.0
+     ]
+    ],
+    "text": "（贵州省毕节市档案馆，贵州毕节，551700）1",
+    "order": 3,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "institution"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      450.0
+     ],
+     [
+      1052.0,
+      450.0
+     ],
+     [
+      1052.0,
+      476.0
+     ],
+     [
+      216.0,
+      476.0
+     ]
+    ],
+    "text": "摘要：馆藏档案开放审核协同机制的建立对于提升档案工作的专业性、",
+    "order": 4,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      508.0
+     ],
+     [
+      1041.0,
+      508.0
+     ],
+     [
+      1041.0,
+      540.0
+     ],
+     [
+      159.0,
+      540.0
+     ]
+    ],
+    "text": "规范性、安全性以及服务水平具有重要作用，是实现档案资源有效管理和",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      575.0
+     ],
+     [
+      1041.0,
+      575.0
+     ],
+     [
+      1041.0,
+      601.0
+     ],
+     [
+      162.0,
+      601.0
+     ]
+    ],
+    "text": "利用的关键措施。本文探讨了馆藏档案开放审核协同机制的重要性及其实",
+    "order": 6,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      636.0
+     ],
+     [
+      1039.0,
+      636.0
+     ],
+     [
+      1039.0,
+      666.0
+     ],
+     [
+      160.0,
+      666.0
+     ]
+    ],
+    "text": "施策略。针对当前档案管理面临的实际问题和挑战，提出制度创新、技术",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      699.0
+     ],
+     [
+      1034.0,
+      699.0
+     ],
+     [
+      1034.0,
+      726.0
+     ],
+     [
+      160.0,
+      726.0
+     ]
+    ],
+    "text": "升级、人力资源开发等对策，旨在提高档案审核的协同效能。展望未来，",
+    "order": 8,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      163.0,
+      762.0
+     ],
+     [
+      1041.0,
+      762.0
+     ],
+     [
+      1041.0,
+      788.0
+     ],
+     [
+      163.0,
+      788.0
+     ]
+    ],
+    "text": "协同机制将在档案管理现代化进程中发挥更大的潜力与作用，推动档案管",
+    "order": 9,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      823.0
+     ],
+     [
+      477.0,
+      823.0
+     ],
+     [
+      477.0,
+      853.0
+     ],
+     [
+      160.0,
+      853.0
+     ]
+    ],
+    "text": "理领域的持续创新与发展。",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "abstract"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      885.0
+     ],
+     [
+      855.0,
+      885.0
+     ],
+     [
+      855.0,
+      911.0
+     ],
+     [
+      216.0,
+      911.0
+     ]
+    ],
+    "text": "关键词：馆藏档案；开放审核；协同机制；制度创新",
+    "order": 11,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "keyword"
+   },
+   {
+    "text_region": [
+     [
+      211.0,
+      944.0
+     ],
+     [
+      297.0,
+      944.0
+     ],
+     [
+      297.0,
+      981.0
+     ],
+     [
+      211.0,
+      981.0
+     ]
+    ],
+    "text": "0引言",
+    "order": 12,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      219.0,
+      1010.0
+     ],
+     [
+      1054.0,
+      1010.0
+     ],
+     [
+      1054.0,
+      1036.0
+     ],
+     [
+      219.0,
+      1036.0
+     ]
+    ],
+    "text": "中国式现代化塑造着全新的社会景观，而档案管理领域也在变革之中。",
+    "order": 13,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1073.0
+     ],
+     [
+      1038.0,
+      1073.0
+     ],
+     [
+      1038.0,
+      1100.0
+     ],
+     [
+      162.0,
+      1100.0
+     ]
+    ],
+    "text": "馆藏档案的开放审核在现代社会治理和信息化建设中扮演着关键角色。",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1336.0
+     ],
+     [
+      1042.0,
+      1336.0
+     ],
+     [
+      1042.0,
+      1359.0
+     ],
+     [
+      160.0,
+      1359.0
+     ]
+    ],
+    "text": "*本文系贵州省理论创新课题（联合课题）项目“数字人文发展视域下贵州红色档案资源保护与开发利用策略研",
+    "order": 15,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1136.0
+     ],
+     [
+      1039.0,
+      1136.0
+     ],
+     [
+      1039.0,
+      1162.0
+     ],
+     [
+      162.0,
+      1162.0
+     ]
+    ],
+    "text": "《\"十四五\"全国档案事业发展规划》提出：“着力推动档案工作走向依法治",
+    "order": 16,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1368.0
+     ],
+     [
+      1039.0,
+      1368.0
+     ],
+     [
+      1039.0,
+      1390.0
+     ],
+     [
+      160.0,
+      1390.0
+     ]
+    ],
+    "text": "究”（项目编号：GZLCLH-2023-254）和毕节市社科理论创新课题项目“优质档案服务高质量发展问题研究”（项目",
+    "order": 17,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1198.0
+     ],
+     [
+      1041.0,
+      1198.0
+     ],
+     [
+      1041.0,
+      1224.0
+     ],
+     [
+      160.0,
+      1224.0
+     ]
+    ],
+    "text": "理、走向开放、走向现代化”。本文旨在深入探讨中国式现代化对档案管",
+    "order": 18,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      158.0,
+      1397.0
+     ],
+     [
+      447.0,
+      1397.0
+     ],
+     [
+      447.0,
+      1421.0
+     ],
+     [
+      158.0,
+      1421.0
+     ]
+    ],
+    "text": "编号：BSK-23007）的研究成果之一。",
+    "order": 19,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1429.0
+     ],
+     [
+      1031.0,
+      1429.0
+     ],
+     [
+      1031.0,
+      1451.0
+     ],
+     [
+      160.0,
+      1451.0
+     ]
+    ],
+    "text": "作者简介：孙云红，馆员，研究方向：档案基础理论、档案管理、数据档案化、档案鉴定与保护，",
+    "order": 20,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1600.0
+     ],
+     [
+      591.0,
+      1600.0
+     ]
+    ],
+    "text": "１",
+    "order": 21,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      156.0,
+      1460.0
+     ],
+     [
+      362.0,
+      1460.0
+     ],
+     [
+      362.0,
+      1486.0
+     ],
+     [
+      156.0,
+      1486.0
+     ]
+    ],
+    "text": "E-mail:44338945@qq.com",
+    "order": 22,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 1,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      163.0,
+      233.0
+     ],
+     [
+      1038.0,
+      233.0
+     ],
+     [
+      1038.0,
+      255.0
+     ],
+     [
+      163.0,
+      255.0
+     ]
+    ],
+    "text": "理领域的影响，阐明馆藏档案开放审核在现代社会治理与信息化进程中的",
+    "order": 1,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      294.0
+     ],
+     [
+      1039.0,
+      294.0
+     ],
+     [
+      1039.0,
+      320.0
+     ],
+     [
+      162.0,
+      320.0
+     ]
+    ],
+    "text": "重要性。通过分析当前档案管理的现状，揭示存在的问题和挑战，并提出",
+    "order": 2,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      356.0
+     ],
+     [
+      1039.0,
+      356.0
+     ],
+     [
+      1039.0,
+      382.0
+     ],
+     [
+      162.0,
+      382.0
+     ]
+    ],
+    "text": "相应的对策和建议。我们希望这项研究能为推动档案管理领域的创新和发",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      418.0
+     ],
+     [
+      309.0,
+      418.0
+     ],
+     [
+      309.0,
+      446.0
+     ],
+     [
+      162.0,
+      446.0
+     ]
+    ],
+    "text": "展做出贡献。",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      215.0,
+      482.0
+     ],
+     [
+      827.0,
+      482.0
+     ],
+     [
+      827.0,
+      508.0
+     ],
+     [
+      215.0,
+      508.0
+     ]
+    ],
+    "text": "1中国式现代化对馆藏档案开放审核的关联性分析",
+    "order": 5,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      543.0
+     ],
+     [
+      1038.0,
+      543.0
+     ],
+     [
+      1038.0,
+      569.0
+     ],
+     [
+      216.0,
+      569.0
+     ]
+    ],
+    "text": "1.1馆藏档案作为信息资源的重要组成部分在现代社会治理中的角",
+    "order": 6,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      602.0
+     ],
+     [
+      245.0,
+      602.0
+     ],
+     [
+      245.0,
+      636.0
+     ],
+     [
+      160.0,
+      636.0
+     ]
+    ],
+    "text": "色变迁",
+    "order": 7,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      666.0
+     ],
+     [
+      1052.0,
+      666.0
+     ],
+     [
+      1052.0,
+      697.0
+     ],
+     [
+      216.0,
+      697.0
+     ]
+    ],
+    "text": "随着中国式现代化的不断推进，馆藏档案不再仅仅是尘封的历史资料，",
+    "order": 8,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      728.0
+     ],
+     [
+      1041.0,
+      728.0
+     ],
+     [
+      1041.0,
+      759.0
+     ],
+     [
+      159.0,
+      759.0
+     ]
+    ],
+    "text": "而是已经成为政策制定、决策分析和社会研究等领域的重要依据，为社会",
+    "order": 9,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      794.0
+     ],
+     [
+      1041.0,
+      794.0
+     ],
+     [
+      1041.0,
+      820.0
+     ],
+     [
+      162.0,
+      820.0
+     ]
+    ],
+    "text": "治理提供宝贵的数据支持和历史参照，使政府和社会各界能够更科学、更",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      853.0
+     ],
+     [
+      1039.0,
+      853.0
+     ],
+     [
+      1039.0,
+      884.0
+     ],
+     [
+      159.0,
+      884.0
+     ]
+    ],
+    "text": "精准地处理各种社会问题。实际上，馆藏档案的作用已经远远超越传统的",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      917.0
+     ],
+     [
+      1041.0,
+      917.0
+     ],
+     [
+      1041.0,
+      947.0
+     ],
+     [
+      159.0,
+      947.0
+     ]
+    ],
+    "text": "“记录历史”，在现代社会治理中扮演着越来越关键的角色。通过精心筛选",
+    "order": 12,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      980.0
+     ],
+     [
+      1041.0,
+      980.0
+     ],
+     [
+      1041.0,
+      1007.0
+     ],
+     [
+      162.0,
+      1007.0
+     ]
+    ],
+    "text": "和审慎审核档案，确保档案信息的真实性、完整性和有效性，进而提升其",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      1039.0
+     ],
+     [
+      1042.0,
+      1039.0
+     ],
+     [
+      1042.0,
+      1071.0
+     ],
+     [
+      159.0,
+      1071.0
+     ]
+    ],
+    "text": "在社会治理中的利用价值，这不仅是对历史的尊重，更是对现代社会治理",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1104.0
+     ],
+     [
+      531.0,
+      1104.0
+     ],
+     [
+      531.0,
+      1134.0
+     ],
+     [
+      160.0,
+      1134.0
+     ]
+    ],
+    "text": "科学性和精准性的有力保障[2]。",
+    "order": 15,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1166.0
+     ],
+     [
+      850.0,
+      1166.0
+     ],
+     [
+      850.0,
+      1197.0
+     ],
+     [
+      216.0,
+      1197.0
+     ]
+    ],
+    "text": "1.2中国式现代化对信息公开与数据共享的内在要求",
+    "order": 16,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1230.0
+     ],
+     [
+      1039.0,
+      1230.0
+     ],
+     [
+      1039.0,
+      1256.0
+     ],
+     [
+      218.0,
+      1256.0
+     ]
+    ],
+    "text": "中国式现代化的追求旨在实现全面、协调、可持续发展，其中，信息",
+    "order": 17,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      594.0,
+      1569.0
+     ],
+     [
+      610.0,
+      1569.0
+     ],
+     [
+      610.0,
+      1602.0
+     ],
+     [
+      594.0,
+      1602.0
+     ]
+    ],
+    "text": "2",
+    "order": 18,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      163.0,
+      1292.0
+     ],
+     [
+      1041.0,
+      1292.0
+     ],
+     [
+      1041.0,
+      1318.0
+     ],
+     [
+      163.0,
+      1318.0
+     ]
+    ],
+    "text": "公开与数据共享被赋予至关重要的因素。馆藏档案作为政府信息的重要组",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1350.0
+     ],
+     [
+      952.0,
+      1350.0
+     ],
+     [
+      952.0,
+      1385.0
+     ],
+     [
+      160.0,
+      1385.0
+     ]
+    ],
+    "text": "成部分，其开放审核是实现信息公开与数据共享的关键环节之一。",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 2,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      216.0,
+      231.0
+     ],
+     [
+      1039.0,
+      231.0
+     ],
+     [
+      1039.0,
+      258.0
+     ],
+     [
+      216.0,
+      258.0
+     ]
+    ],
+    "text": "通过开放审核，可确保馆藏档案中的信息能够公正、公平、公开地呈",
+    "order": 1,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      292.0
+     ],
+     [
+      1038.0,
+      292.0
+     ],
+     [
+      1038.0,
+      323.0
+     ],
+     [
+      160.0,
+      323.0
+     ]
+    ],
+    "text": "现在公众面前，既体现政府的透明度，也增强公众对政府的信任度。同时，",
+    "order": 2,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      355.0
+     ],
+     [
+      1035.0,
+      355.0
+     ],
+     [
+      1035.0,
+      385.0
+     ],
+     [
+      160.0,
+      385.0
+     ]
+    ],
+    "text": "数据的共享利用有助于打破信息孤岛，推动跨部门、跨领域的协同合作，",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      415.0
+     ],
+     [
+      730.0,
+      415.0
+     ],
+     [
+      730.0,
+      449.0
+     ],
+     [
+      160.0,
+      449.0
+     ]
+    ],
+    "text": "从而为中国式现代化注入更多的活力和创新力。",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      481.0
+     ],
+     [
+      989.0,
+      481.0
+     ],
+     [
+      989.0,
+      510.0
+     ],
+     [
+      213.0,
+      510.0
+     ]
+    ],
+    "text": "1.3中国现代化进程中公众对档案信息获取的新期待及社会动因",
+    "order": 5,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      543.0
+     ],
+     [
+      1042.0,
+      543.0
+     ],
+     [
+      1042.0,
+      573.0
+     ],
+     [
+      216.0,
+      573.0
+     ]
+    ],
+    "text": "随着中国现代化进程的不断加速，公众对档案信息的获取需求也在逐",
+    "order": 6,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      601.0
+     ],
+     [
+      1041.0,
+      601.0
+     ],
+     [
+      1041.0,
+      637.0
+     ],
+     [
+      159.0,
+      637.0
+     ]
+    ],
+    "text": "渐提升[3]。一方面，反映了公众整体文化素质提高和信息意识的觉醒，另",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      163.0,
+      668.0
+     ],
+     [
+      1038.0,
+      668.0
+     ],
+     [
+      1038.0,
+      698.0
+     ],
+     [
+      163.0,
+      698.0
+     ]
+    ],
+    "text": "一方面，也与中国式现代化所倡导的信息公开、透明政府等理念紧密相通。",
+    "order": 8,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      730.0
+     ],
+     [
+      1039.0,
+      730.0
+     ],
+     [
+      1039.0,
+      760.0
+     ],
+     [
+      218.0,
+      760.0
+     ]
+    ],
+    "text": "公众对档案信息的新期待主要体现在对档案信息的全面性、真实性和",
+    "order": 9,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      792.0
+     ],
+     [
+      1041.0,
+      792.0
+     ],
+     [
+      1041.0,
+      823.0
+     ],
+     [
+      162.0,
+      823.0
+     ]
+    ],
+    "text": "及时性方面的要求。希望通过档案信息了解更多的历史真相、政府决策过",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      856.0
+     ],
+     [
+      1039.0,
+      856.0
+     ],
+     [
+      1039.0,
+      882.0
+     ],
+     [
+      162.0,
+      882.0
+     ]
+    ],
+    "text": "程以及社会公共事务的相关信息，这种期待背后的社会动因在于公众对民",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      917.0
+     ],
+     [
+      1036.0,
+      917.0
+     ],
+     [
+      1036.0,
+      947.0
+     ],
+     [
+      160.0,
+      947.0
+     ]
+    ],
+    "text": "主法治的追求、对公平正义的向往，以及对自身知情权和参与权的重视。",
+    "order": 12,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      979.0
+     ],
+     [
+      690.0,
+      979.0
+     ],
+     [
+      690.0,
+      1010.0
+     ],
+     [
+      213.0,
+      1010.0
+     ]
+    ],
+    "text": "2当前馆藏档案开放审核的现状与困境",
+    "order": 13,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1041.0
+     ],
+     [
+      544.0,
+      1041.0
+     ],
+     [
+      544.0,
+      1072.0
+     ],
+     [
+      216.0,
+      1072.0
+     ]
+    ],
+    "text": "2.1馆藏档案开放审核现状",
+    "order": 14,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1104.0
+     ],
+     [
+      1042.0,
+      1104.0
+     ],
+     [
+      1042.0,
+      1134.0
+     ],
+     [
+      218.0,
+      1134.0
+     ]
+    ],
+    "text": "审核流程现状。目前，馆藏档案开放审核主要遵循《国家档案馆档案",
+    "order": 15,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1166.0
+     ],
+     [
+      1041.0,
+      1166.0
+     ],
+     [
+      1041.0,
+      1197.0
+     ],
+     [
+      160.0,
+      1197.0
+     ]
+    ],
+    "text": "开放办法》的规定，由档案馆主导，档案形成或移交单位协同参与。审核",
+    "order": 16,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1231.0
+     ],
+     [
+      1039.0,
+      1231.0
+     ],
+     [
+      1039.0,
+      1257.0
+     ],
+     [
+      160.0,
+      1257.0
+     ]
+    ],
+    "text": "流程一般包括初步审查、专家评估、最终决策等环节，确保档案内容不涉",
+    "order": 17,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1569.0
+     ],
+     [
+      611.0,
+      1569.0
+     ],
+     [
+      611.0,
+      1602.0
+     ],
+     [
+      591.0,
+      1602.0
+     ]
+    ],
+    "text": "3",
+    "order": 18,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1291.0
+     ],
+     [
+      1042.0,
+      1291.0
+     ],
+     [
+      1042.0,
+      1321.0
+     ],
+     [
+      160.0,
+      1321.0
+     ]
+    ],
+    "text": "及国家秘密、个人隐私和商业秘密等敏感信息，实际操作中，各级档案馆",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1353.0
+     ],
+     [
+      729.0,
+      1353.0
+     ],
+     [
+      729.0,
+      1383.0
+     ],
+     [
+      160.0,
+      1383.0
+     ]
+    ],
+    "text": "建立档案开放审核工作组，负责具体审核工作。",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 3,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      219.0,
+      231.0
+     ],
+     [
+      1039.0,
+      231.0
+     ],
+     [
+      1039.0,
+      258.0
+     ],
+     [
+      219.0,
+      258.0
+     ]
+    ],
+    "text": "审核标准实践。审核标准主要依据档案的年代、密级、内容敏感性等",
+    "order": 1,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      292.0
+     ],
+     [
+      1041.0,
+      292.0
+     ],
+     [
+      1041.0,
+      323.0
+     ],
+     [
+      160.0,
+      323.0
+     ]
+    ],
+    "text": "因素进行综合评估，各级档案馆在制定内部审核标准时，通常会结合实际",
+    "order": 2,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      355.0
+     ],
+     [
+      1042.0,
+      355.0
+     ],
+     [
+      1042.0,
+      385.0
+     ],
+     [
+      160.0,
+      385.0
+     ]
+    ],
+    "text": "情况，对不同类型的档案设定不同的开放门槛[4]。在实践中，一些档案馆",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      417.0
+     ],
+     [
+      1039.0,
+      417.0
+     ],
+     [
+      1039.0,
+      446.0
+     ],
+     [
+      159.0,
+      446.0
+     ]
+    ],
+    "text": "还会邀请外部专家参与审核标准的制定和档案内容的评估，以确保审核的",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      163.0,
+      481.0
+     ],
+     [
+      365.0,
+      481.0
+     ],
+     [
+      365.0,
+      508.0
+     ],
+     [
+      163.0,
+      508.0
+     ]
+    ],
+    "text": "公正性和专业性。",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      541.0
+     ],
+     [
+      1041.0,
+      541.0
+     ],
+     [
+      1041.0,
+      571.0
+     ],
+     [
+      216.0,
+      571.0
+     ]
+    ],
+    "text": "审核操作实践。当前，越来越多的档案馆开始采用数字化手段进行档",
+    "order": 6,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      604.0
+     ],
+     [
+      1038.0,
+      604.0
+     ],
+     [
+      1038.0,
+      634.0
+     ],
+     [
+      160.0,
+      634.0
+     ]
+    ],
+    "text": "案管理和审核，提高了工作效率，部分先进档案馆建立电子档案管理系统，",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      666.0
+     ],
+     [
+      1041.0,
+      666.0
+     ],
+     [
+      1041.0,
+      697.0
+     ],
+     [
+      160.0,
+      697.0
+     ]
+    ],
+    "text": "实现档案信息的在线查询、审核和共享[5]。然而，操作实践中仍存在地区",
+    "order": 8,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      727.0
+     ],
+     [
+      1039.0,
+      727.0
+     ],
+     [
+      1039.0,
+      759.0
+     ],
+     [
+      159.0,
+      759.0
+     ]
+    ],
+    "text": "差异和技术应用不平衡的问题，一些地区或小型档案馆的信息化水平仍有",
+    "order": 9,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      791.0
+     ],
+     [
+      258.0,
+      791.0
+     ],
+     [
+      258.0,
+      823.0
+     ],
+     [
+      159.0,
+      823.0
+     ]
+    ],
+    "text": "待提升。",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      853.0
+     ],
+     [
+      543.0,
+      853.0
+     ],
+     [
+      543.0,
+      884.0
+     ],
+     [
+      213.0,
+      884.0
+     ]
+    ],
+    "text": "2.2 馆藏档案开放审核困境",
+    "order": 11,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      219.0,
+      918.0
+     ],
+     [
+      1041.0,
+      918.0
+     ],
+     [
+      1041.0,
+      944.0
+     ],
+     [
+      219.0,
+      944.0
+     ]
+    ],
+    "text": "审核效率低下。由于馆藏档案数量庞大，且部分档案内容复杂，导致",
+    "order": 12,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      976.0
+     ],
+     [
+      1041.0,
+      976.0
+     ],
+     [
+      1041.0,
+      1008.0
+     ],
+     [
+      160.0,
+      1008.0
+     ]
+    ],
+    "text": "审核工作量大、耗时长，多方参与的协同机制虽然增加审核的全面性，但",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1040.0
+     ],
+     [
+      701.0,
+      1040.0
+     ],
+     [
+      701.0,
+      1069.0
+     ],
+     [
+      160.0,
+      1069.0
+     ]
+    ],
+    "text": "也带来沟通和协调上的困难，影响审核效率。",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      220.0,
+      1108.0
+     ],
+     [
+      1039.0,
+      1108.0
+     ],
+     [
+      1039.0,
+      1130.0
+     ],
+     [
+      220.0,
+      1130.0
+     ]
+    ],
+    "text": "审核标准模糊。尽管有《国家档案馆档案开放办法》作为指导，但具",
+    "order": 15,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1166.0
+     ],
+     [
+      1041.0,
+      1166.0
+     ],
+     [
+      1041.0,
+      1197.0
+     ],
+     [
+      160.0,
+      1197.0
+     ]
+    ],
+    "text": "体审核标准在不同档案馆之间仍存在差异，特别是对于某些具有特殊历史",
+    "order": 16,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1230.0
+     ],
+     [
+      1036.0,
+      1230.0
+     ],
+     [
+      1036.0,
+      1256.0
+     ],
+     [
+      160.0,
+      1256.0
+     ]
+    ],
+    "text": "背景或涉及多方利益的档案，如何界定其开放程度往往成为争议的焦点。",
+    "order": 17,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1600.0
+     ],
+     [
+      591.0,
+      1600.0
+     ]
+    ],
+    "text": "4",
+    "order": 18,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1292.0
+     ],
+     [
+      1041.0,
+      1292.0
+     ],
+     [
+      1041.0,
+      1318.0
+     ],
+     [
+      218.0,
+      1318.0
+     ]
+    ],
+    "text": "信息化程度不足。一些偏远地区档案馆在信息化方面投入有限，导致",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1352.0
+     ],
+     [
+      1041.0,
+      1352.0
+     ],
+     [
+      1041.0,
+      1382.0
+     ],
+     [
+      160.0,
+      1382.0
+     ]
+    ],
+    "text": "档案数字化进程缓慢，制约审核工作的现代化进程。同时，缺乏高效的信",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 4,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      162.0,
+      231.0
+     ],
+     [
+      1041.0,
+      231.0
+     ],
+     [
+      1041.0,
+      258.0
+     ],
+     [
+      162.0,
+      258.0
+     ]
+    ],
+    "text": "息管理系统和数据分析工具，使得审核人员在处理大量档案信息时效率低",
+    "order": 1,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      292.0
+     ],
+     [
+      200.0,
+      292.0
+     ],
+     [
+      200.0,
+      325.0
+     ],
+     [
+      159.0,
+      325.0
+     ]
+    ],
+    "text": "下。",
+    "order": 2,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      355.0
+     ],
+     [
+      681.0,
+      355.0
+     ],
+     [
+      681.0,
+      385.0
+     ],
+     [
+      213.0,
+      385.0
+     ]
+    ],
+    "text": "2.3 馆藏档案开放审核存在困境的原因",
+    "order": 3,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      415.0
+     ],
+     [
+      1035.0,
+      415.0
+     ],
+     [
+      1035.0,
+      446.0
+     ],
+     [
+      216.0,
+      446.0
+     ]
+    ],
+    "text": "制度层。虽然《国家档案馆档案开放办法》为审核工作提供基本框架，",
+    "order": 4,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      482.0
+     ],
+     [
+      1038.0,
+      482.0
+     ],
+     [
+      1038.0,
+      508.0
+     ],
+     [
+      162.0,
+      508.0
+     ]
+    ],
+    "text": "但具体实施细则仍需各级档案馆根据自身情况制定，在一定程度上导致审",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      540.0
+     ],
+     [
+      1039.0,
+      540.0
+     ],
+     [
+      1039.0,
+      572.0
+     ],
+     [
+      159.0,
+      572.0
+     ]
+    ],
+    "text": "核标准的差异性和模糊性，使得一些新情况、新问题在制度层面得不到及",
+    "order": 6,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      604.0
+     ],
+     [
+      339.0,
+      604.0
+     ],
+     [
+      339.0,
+      636.0
+     ],
+     [
+      159.0,
+      636.0
+     ]
+    ],
+    "text": "时有效的指导。",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      669.0
+     ],
+     [
+      1041.0,
+      669.0
+     ],
+     [
+      1041.0,
+      695.0
+     ],
+     [
+      218.0,
+      695.0
+     ]
+    ],
+    "text": "技术层。信息技术在档案馆的应用水平参差不齐，部分地区和档案馆",
+    "order": 8,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      728.0
+     ],
+     [
+      1034.0,
+      728.0
+     ],
+     [
+      1034.0,
+      759.0
+     ],
+     [
+      162.0,
+      759.0
+     ]
+    ],
+    "text": "由于资金、人才等限制，难以引入先进的信息化管理工具。在档案领域，",
+    "order": 9,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      165.0,
+      794.0
+     ],
+     [
+      1039.0,
+      794.0
+     ],
+     [
+      1039.0,
+      820.0
+     ],
+     [
+      165.0,
+      820.0
+     ]
+    ],
+    "text": "由于档案的严肃性、涉密性，致使数据挖掘、智能分析等高级技术的应用",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      852.0
+     ],
+     [
+      701.0,
+      852.0
+     ],
+     [
+      701.0,
+      885.0
+     ],
+     [
+      159.0,
+      885.0
+     ]
+    ],
+    "text": "未能充分发挥其在提高审核效率方面的潜力。",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      917.0
+     ],
+     [
+      1035.0,
+      917.0
+     ],
+     [
+      1035.0,
+      947.0
+     ],
+     [
+      216.0,
+      947.0
+     ]
+    ],
+    "text": "人才层。专业的档案审核人员数量不足，且培训和教育机制不完善，",
+    "order": 12,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      976.0
+     ],
+     [
+      1041.0,
+      976.0
+     ],
+     [
+      1041.0,
+      1010.0
+     ],
+     [
+      160.0,
+      1010.0
+     ]
+    ],
+    "text": "导致审核人员的专业素质和业务水平参差不齐。部分档案馆在人才引进和",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      158.0,
+      1039.0
+     ],
+     [
+      981.0,
+      1039.0
+     ],
+     [
+      981.0,
+      1072.0
+     ],
+     [
+      158.0,
+      1072.0
+     ]
+    ],
+    "text": "激励方面存在不足，难以吸引和留住高素质人才从事档案审核工作。",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      212.0,
+      1102.0
+     ],
+     [
+      885.0,
+      1102.0
+     ],
+     [
+      885.0,
+      1136.0
+     ],
+     [
+      212.0,
+      1136.0
+     ]
+    ],
+    "text": "3江西省档案馆档案开放协同审核机制的做法及其启示",
+    "order": 15,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1165.0
+     ],
+     [
+      1044.0,
+      1165.0
+     ],
+     [
+      1044.0,
+      1199.0
+     ],
+     [
+      218.0,
+      1199.0
+     ]
+    ],
+    "text": "自2021年以来，江西省档案馆深入贯彻落实习近平总书记对档案工",
+    "order": 16,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1228.0
+     ],
+     [
+      1041.0,
+      1228.0
+     ],
+     [
+      1041.0,
+      1259.0
+     ],
+     [
+      160.0,
+      1259.0
+     ]
+    ],
+    "text": "作重要批示精神和贯彻实施新修订档案法，正式启动\"十四五\"馆藏新中国",
+    "order": 17,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1569.0
+     ],
+     [
+      611.0,
+      1569.0
+     ],
+     [
+      611.0,
+      1601.0
+     ],
+     [
+      591.0,
+      1601.0
+     ]
+    ],
+    "text": "5",
+    "order": 18,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1291.0
+     ],
+     [
+      1041.0,
+      1291.0
+     ],
+     [
+      1041.0,
+      1321.0
+     ],
+     [
+      162.0,
+      1321.0
+     ]
+    ],
+    "text": "成立后文书档案开放审核工作，目标是在2025年前完成约150万件档案",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1354.0
+     ],
+     [
+      1039.0,
+      1354.0
+     ],
+     [
+      1039.0,
+      1381.0
+     ],
+     [
+      162.0,
+      1381.0
+     ]
+    ],
+    "text": "的审核。为实现此目标，档案馆不仅优化审核流程，还加强与外部机构的",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      1414.0
+     ],
+     [
+      282.0,
+      1414.0
+     ],
+     [
+      282.0,
+      1447.0
+     ],
+     [
+      159.0,
+      1447.0
+     ]
+    ],
+    "text": "协同合作。",
+    "order": 21,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 5,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      216.0,
+      231.0
+     ],
+     [
+      703.0,
+      231.0
+     ],
+     [
+      703.0,
+      258.0
+     ],
+     [
+      216.0,
+      258.0
+     ]
+    ],
+    "text": "3.1江西档案开放协同审核机制主要做法",
+    "order": 1,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      292.0
+     ],
+     [
+      528.0,
+      292.0
+     ],
+     [
+      528.0,
+      323.0
+     ],
+     [
+      216.0,
+      323.0
+     ]
+    ],
+    "text": "3.1.1制度保障与流程规范",
+    "order": 2,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      356.0
+     ],
+     [
+      1041.0,
+      356.0
+     ],
+     [
+      1041.0,
+      382.0
+     ],
+     [
+      218.0,
+      382.0
+     ]
+    ],
+    "text": "江西省档案馆建立了\"四审一议一批\"的开放审核制度，确保每件档案",
+    "order": 3,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      163.0,
+      418.0
+     ],
+     [
+      1041.0,
+      418.0
+     ],
+     [
+      1041.0,
+      445.0
+     ],
+     [
+      163.0,
+      445.0
+     ]
+    ],
+    "text": "都经过严格的四重审核。此外，还修订完善《江西省档案馆档案开放审核",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      482.0
+     ],
+     [
+      1038.0,
+      482.0
+     ],
+     [
+      1038.0,
+      508.0
+     ],
+     [
+      162.0,
+      508.0
+     ]
+    ],
+    "text": "工作规定》，并编制《江西省档案馆馆藏档案开放审核适用规则（试行)》，",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      541.0
+     ],
+     [
+      700.0,
+      541.0
+     ],
+     [
+      700.0,
+      572.0
+     ],
+     [
+      160.0,
+      572.0
+     ]
+    ],
+    "text": "为档案开放审核工作提供明确的指导和规范。",
+    "order": 6,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      607.0
+     ],
+     [
+      584.0,
+      607.0
+     ],
+     [
+      584.0,
+      633.0
+     ],
+     [
+      216.0,
+      633.0
+     ]
+    ],
+    "text": "3.1.2跨部门协同与信息化支持",
+    "order": 7,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      219.0,
+      669.0
+     ],
+     [
+      1019.0,
+      669.0
+     ],
+     [
+      1019.0,
+      695.0
+     ],
+     [
+      219.0,
+      695.0
+     ]
+    ],
+    "text": "省档案馆与省档案局、21家相关省直单位等建立紧密的合作关系，",
+    "order": 8,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      728.0
+     ],
+     [
+      1042.0,
+      728.0
+     ],
+     [
+      1042.0,
+      759.0
+     ],
+     [
+      159.0,
+      759.0
+     ]
+    ],
+    "text": "通过定期的业务沟通会议和开放复核工作联络小组，实现信息共享和资源",
+    "order": 9,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      794.0
+     ],
+     [
+      1039.0,
+      794.0
+     ],
+     [
+      1039.0,
+      820.0
+     ],
+     [
+      160.0,
+      820.0
+     ]
+    ],
+    "text": "整合。协同机制的建立确保各部门之间的有效沟通和合作，提高档案开放",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      852.0
+     ],
+     [
+      1041.0,
+      852.0
+     ],
+     [
+      1041.0,
+      882.0
+     ],
+     [
+      160.0,
+      882.0
+     ]
+    ],
+    "text": "审核工作的整体效能。同时，充分利用信息化手段，如数字档案馆和大数",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      918.0
+     ],
+     [
+      1041.0,
+      918.0
+     ],
+     [
+      1041.0,
+      944.0
+     ],
+     [
+      160.0,
+      944.0
+     ]
+    ],
+    "text": "据分析应用系统，支持全程线上开放审核，不仅提高了审核效率，还增强",
+    "order": 12,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      979.0
+     ],
+     [
+      563.0,
+      979.0
+     ],
+     [
+      563.0,
+      1010.0
+     ],
+     [
+      160.0,
+      1010.0
+     ]
+    ],
+    "text": "档案工作的透明度和公众参与度。",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1040.0
+     ],
+     [
+      1034.0,
+      1040.0
+     ],
+     [
+      1034.0,
+      1071.0
+     ],
+     [
+      216.0,
+      1071.0
+     ]
+    ],
+    "text": "截至2022年8月，江西省档案馆已完成53.5万件文书档案的一审、",
+    "order": 14,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1105.0
+     ],
+     [
+      1039.0,
+      1105.0
+     ],
+     [
+      1039.0,
+      1131.0
+     ],
+     [
+      162.0,
+      1131.0
+     ]
+    ],
+    "text": "二审任务，涉及69个全宗。其中，会同21家省直单位共同完成14.71万",
+    "order": 15,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1166.0
+     ],
+     [
+      498.0,
+      1166.0
+     ],
+     [
+      498.0,
+      1197.0
+     ],
+     [
+      160.0,
+      1197.0
+     ]
+    ],
+    "text": "余件文书档案的终审任务[。",
+    "order": 16,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      1230.0
+     ],
+     [
+      541.0,
+      1230.0
+     ],
+     [
+      541.0,
+      1256.0
+     ],
+     [
+      213.0,
+      1256.0
+     ]
+    ],
+    "text": "3.2协同审核机制成效分析",
+    "order": 17,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      219.0,
+      1292.0
+     ],
+     [
+      1041.0,
+      1292.0
+     ],
+     [
+      1041.0,
+      1318.0
+     ],
+     [
+      219.0,
+      1318.0
+     ]
+    ],
+    "text": "审核效率显著提升。通过协同机制和信息化手段的应用，江西省档案",
+    "order": 18,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1600.0
+     ],
+     [
+      591.0,
+      1600.0
+     ]
+    ],
+    "text": "6",
+    "order": 19,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1352.0
+     ],
+     [
+      1041.0,
+      1352.0
+     ],
+     [
+      1041.0,
+      1382.0
+     ],
+     [
+      160.0,
+      1382.0
+     ]
+    ],
+    "text": "馆在短短一年多时间内完成53.5万件文书档案的一审、二审任务，并向",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 6,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      162.0,
+      231.0
+     ],
+     [
+      956.0,
+      231.0
+     ],
+     [
+      956.0,
+      258.0
+     ],
+     [
+      162.0,
+      258.0
+     ]
+    ],
+    "text": "社会开放6.42万余件档案。这一成绩充分体现协同机制的高效性。",
+    "order": 1,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      292.0
+     ],
+     [
+      1039.0,
+      292.0
+     ],
+     [
+      1039.0,
+      323.0
+     ],
+     [
+      216.0,
+      323.0
+     ]
+    ],
+    "text": "档案信息公开度提高。协同机制推动档案信息的公开和透明。通过与",
+    "order": 2,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      353.0
+     ],
+     [
+      1039.0,
+      353.0
+     ],
+     [
+      1039.0,
+      384.0
+     ],
+     [
+      162.0,
+      384.0
+     ]
+    ],
+    "text": "省直单位的紧密合作和信息共享，江西省档案馆能够及时向社会公布开放",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      417.0
+     ],
+     [
+      759.0,
+      417.0
+     ],
+     [
+      759.0,
+      449.0
+     ],
+     [
+      160.0,
+      449.0
+     ]
+    ],
+    "text": "档案的信息，增强公众对档案工作的了解和认同。",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      481.0
+     ],
+     [
+      537.0,
+      481.0
+     ],
+     [
+      537.0,
+      511.0
+     ],
+     [
+      213.0,
+      511.0
+     ]
+    ],
+    "text": "3.3协同审核机制工作启示",
+    "order": 5,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      543.0
+     ],
+     [
+      1039.0,
+      543.0
+     ],
+     [
+      1039.0,
+      569.0
+     ],
+     [
+      218.0,
+      569.0
+     ]
+    ],
+    "text": "重视跨部门协同与信息共享。档案开放审核工作涉及多个部门和单位",
+    "order": 6,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      602.0
+     ],
+     [
+      1042.0,
+      602.0
+     ],
+     [
+      1042.0,
+      636.0
+     ],
+     [
+      159.0,
+      636.0
+     ]
+    ],
+    "text": "的协作。江西省档案馆的成功实践表明，建立紧密的合作关系和信息共享",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      665.0
+     ],
+     [
+      505.0,
+      665.0
+     ],
+     [
+      505.0,
+      698.0
+     ],
+     [
+      159.0,
+      698.0
+     ]
+    ],
+    "text": "机制是实现高效审核的关键。",
+    "order": 8,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      215.0,
+      728.0
+     ],
+     [
+      1041.0,
+      728.0
+     ],
+     [
+      1041.0,
+      757.0
+     ],
+     [
+      215.0,
+      757.0
+     ]
+    ],
+    "text": "充分利用信息化手段提高效率。江西省档案馆通过数字档案馆和大数",
+    "order": 9,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      792.0
+     ],
+     [
+      1039.0,
+      792.0
+     ],
+     [
+      1039.0,
+      823.0
+     ],
+     [
+      159.0,
+      823.0
+     ]
+    ],
+    "text": "据分析应用系统等信息化手段，实现线上流程化开放审核，大幅提高工作",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      853.0
+     ],
+     [
+      1008.0,
+      853.0
+     ],
+     [
+      1008.0,
+      884.0
+     ],
+     [
+      160.0,
+      884.0
+     ]
+    ],
+    "text": "效率。这启示其他档案馆应积极探索信息化手段在档案工作中的应用。",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      917.0
+     ],
+     [
+      1041.0,
+      917.0
+     ],
+     [
+      1041.0,
+      947.0
+     ],
+     [
+      216.0,
+      947.0
+     ]
+    ],
+    "text": "注重制度建设和规范化管理。江西省档案馆建立完善的开放审核制度",
+    "order": 12,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      979.0
+     ],
+     [
+      1042.0,
+      979.0
+     ],
+     [
+      1042.0,
+      1010.0
+     ],
+     [
+      160.0,
+      1010.0
+     ]
+    ],
+    "text": "和规则，确保档案开放审核工作的规范化实施。这提示其他档案馆应重视",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      1039.0
+     ],
+     [
+      729.0,
+      1039.0
+     ],
+     [
+      729.0,
+      1072.0
+     ],
+     [
+      159.0,
+      1072.0
+     ]
+    ],
+    "text": "制度建设和规范化管理在档案工作中的重要性。",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1107.0
+     ],
+     [
+      797.0,
+      1107.0
+     ],
+     [
+      797.0,
+      1133.0
+     ],
+     [
+      216.0,
+      1133.0
+     ]
+    ],
+    "text": "4完善馆藏档案开放审核协同机制的对策与建议",
+    "order": 15,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1166.0
+     ],
+     [
+      760.0,
+      1166.0
+     ],
+     [
+      760.0,
+      1197.0
+     ],
+     [
+      216.0,
+      1197.0
+     ]
+    ],
+    "text": "4.1制度创新：构建高效协同的档案审核机制",
+    "order": 16,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1231.0
+     ],
+     [
+      1039.0,
+      1231.0
+     ],
+     [
+      1039.0,
+      1257.0
+     ],
+     [
+      218.0,
+      1257.0
+     ]
+    ],
+    "text": "完善档案开放审核制度。借鉴江西\"四审一议一批\"制度，各地区应根",
+    "order": 17,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      593.0,
+      1570.0
+     ],
+     [
+      608.0,
+      1570.0
+     ],
+     [
+      608.0,
+      1598.0
+     ],
+     [
+      593.0,
+      1598.0
+     ]
+    ],
+    "text": "7",
+    "order": 18,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1291.0
+     ],
+     [
+      1041.0,
+      1291.0
+     ],
+     [
+      1041.0,
+      1321.0
+     ],
+     [
+      160.0,
+      1321.0
+     ]
+    ],
+    "text": "据自身情况进行档案开放审核流程的细致梳理和完善。这要求明确每一步",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1354.0
+     ],
+     [
+      1038.0,
+      1354.0
+     ],
+     [
+      1038.0,
+      1381.0
+     ],
+     [
+      162.0,
+      1381.0
+     ]
+    ],
+    "text": "审核过程的责任主体，确保各环节专人负责，避免责任模糊和推读现象[7]。",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 7,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      162.0,
+      231.0
+     ],
+     [
+      1039.0,
+      231.0
+     ],
+     [
+      1039.0,
+      258.0
+     ],
+     [
+      162.0,
+      258.0
+     ]
+    ],
+    "text": "同时，进一步细化和明确审核标准，以规范档案审核工作，减少主观判断",
+    "order": 1,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      158.0,
+      288.0
+     ],
+     [
+      255.0,
+      288.0
+     ],
+     [
+      255.0,
+      324.0
+     ],
+     [
+      158.0,
+      324.0
+     ]
+    ],
+    "text": "的影响。",
+    "order": 2,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      356.0
+     ],
+     [
+      1041.0,
+      356.0
+     ],
+     [
+      1041.0,
+      382.0
+     ],
+     [
+      218.0,
+      382.0
+     ]
+    ],
+    "text": "建立跨部门协同机制。全国范围内的档案馆应与同级各机关单位建立",
+    "order": 3,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      418.0
+     ],
+     [
+      1039.0,
+      418.0
+     ],
+     [
+      1039.0,
+      445.0
+     ],
+     [
+      162.0,
+      445.0
+     ]
+    ],
+    "text": "紧密的合作关系，定期的沟通和信息共享将有助于共同推进档案审核工作",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      481.0
+     ],
+     [
+      870.0,
+      481.0
+     ],
+     [
+      870.0,
+      507.0
+     ],
+     [
+      162.0,
+      507.0
+     ]
+    ],
+    "text": "的进行，提高工作效率，确保档案信息的准确性和完整性。",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      541.0
+     ],
+     [
+      1041.0,
+      541.0
+     ],
+     [
+      1041.0,
+      572.0
+     ],
+     [
+      216.0,
+      572.0
+     ]
+    ],
+    "text": "制定统一的档案开放标准。全国范围内的档案馆应遵循统一的开放标",
+    "order": 6,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      604.0
+     ],
+     [
+      1042.0,
+      604.0
+     ],
+     [
+      1042.0,
+      634.0
+     ],
+     [
+      159.0,
+      634.0
+     ]
+    ],
+    "text": "准和指导原则，以减少各地审核标准的差异，从而提高档案开放的规范性",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      665.0
+     ],
+     [
+      283.0,
+      665.0
+     ],
+     [
+      283.0,
+      697.0
+     ],
+     [
+      159.0,
+      697.0
+     ]
+    ],
+    "text": "和一致性。",
+    "order": 8,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      728.0
+     ],
+     [
+      766.0,
+      728.0
+     ],
+     [
+      766.0,
+      757.0
+     ],
+     [
+      213.0,
+      757.0
+     ]
+    ],
+    "text": "4.2技术升级：利用信息化手段提升审核效率",
+    "order": 9,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      215.0,
+      792.0
+     ],
+     [
+      1041.0,
+      792.0
+     ],
+     [
+      1041.0,
+      818.0
+     ],
+     [
+      215.0,
+      818.0
+     ]
+    ],
+    "text": "推进数字档案馆建设。利用成功案例作为借鉴，推动全国各地档案馆",
+    "order": 10,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      853.0
+     ],
+     [
+      1042.0,
+      853.0
+     ],
+     [
+      1042.0,
+      884.0
+     ],
+     [
+      159.0,
+      884.0
+     ]
+    ],
+    "text": "的数字化进程。这样不仅可以节省物理存储空间，提高档案信息的检索效",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      918.0
+     ],
+     [
+      701.0,
+      918.0
+     ],
+     [
+      701.0,
+      944.0
+     ],
+     [
+      160.0,
+      944.0
+     ]
+    ],
+    "text": "率，为档案审核工作提供更加强有力的支持。",
+    "order": 12,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      979.0
+     ],
+     [
+      1051.0,
+      979.0
+     ],
+     [
+      1051.0,
+      1005.0
+     ],
+     [
+      218.0,
+      1005.0
+     ]
+    ],
+    "text": "引入大数据分析技术。有助于从海量档案信息中快速识别出关键信息，",
+    "order": 13,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1040.0
+     ],
+     [
+      812.0,
+      1040.0
+     ],
+     [
+      812.0,
+      1069.0
+     ],
+     [
+      160.0,
+      1069.0
+     ]
+    ],
+    "text": "实现查重和分类工作的自动化，减轻人工审核的负担。",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1105.0
+     ],
+     [
+      1039.0,
+      1105.0
+     ],
+     [
+      1039.0,
+      1131.0
+     ],
+     [
+      218.0,
+      1131.0
+     ]
+    ],
+    "text": "构建档案信息共享平台。通过建立全国性的档案信息共享平台，可以",
+    "order": 15,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      1163.0
+     ],
+     [
+      1042.0,
+      1163.0
+     ],
+     [
+      1042.0,
+      1197.0
+     ],
+     [
+      159.0,
+      1197.0
+     ]
+    ],
+    "text": "促进不同地区、部门之间的档案信息互通互认，避免资源的重复审核和浪",
+    "order": 16,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      156.0,
+      1227.0
+     ],
+     [
+      200.0,
+      1227.0
+     ],
+     [
+      200.0,
+      1260.0
+     ],
+     [
+      156.0,
+      1260.0
+     ]
+    ],
+    "text": "费。",
+    "order": 17,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1291.0
+     ],
+     [
+      739.0,
+      1291.0
+     ],
+     [
+      739.0,
+      1321.0
+     ],
+     [
+      216.0,
+      1321.0
+     ]
+    ],
+    "text": "4.3人才培养：强化档案审核人才队伍建设",
+    "order": 18,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1601.0
+     ],
+     [
+      591.0,
+      1601.0
+     ]
+    ],
+    "text": "8",
+    "order": 19,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      1352.0
+     ],
+     [
+      1042.0,
+      1352.0
+     ],
+     [
+      1042.0,
+      1382.0
+     ],
+     [
+      216.0,
+      1382.0
+     ]
+    ],
+    "text": "加强专业培训。定期对档案审核人员开展专业培训，是提升他们专业",
+    "order": 20,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 8,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      162.0,
+      230.0
+     ],
+     [
+      1041.0,
+      230.0
+     ],
+     [
+      1041.0,
+      256.0
+     ],
+     [
+      162.0,
+      256.0
+     ]
+    ],
+    "text": "素养和审核能力的有效途径，确保档案开放审核工作高效准确进行[8]。培",
+    "order": 1,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      294.0
+     ],
+     [
+      1041.0,
+      294.0
+     ],
+     [
+      1041.0,
+      320.0
+     ],
+     [
+      162.0,
+      320.0
+     ]
+    ],
+    "text": "训内容应涵盖档案管理领域的最新理念、技术方法和实践操作，以满足档",
+    "order": 2,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      356.0
+     ],
+     [
+      392.0,
+      356.0
+     ],
+     [
+      392.0,
+      382.0
+     ],
+     [
+      160.0,
+      382.0
+     ]
+    ],
+    "text": "案审核工作的需求。",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      219.0,
+      418.0
+     ],
+     [
+      1039.0,
+      418.0
+     ],
+     [
+      1039.0,
+      445.0
+     ],
+     [
+      219.0,
+      445.0
+     ]
+    ],
+    "text": "优化招录及人才引进机制。引进具有档案学、信息管理等专业知识的",
+    "order": 4,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      481.0
+     ],
+     [
+      1039.0,
+      481.0
+     ],
+     [
+      1039.0,
+      507.0
+     ],
+     [
+      162.0,
+      507.0
+     ]
+    ],
+    "text": "优秀人才是档案审核工作的关键。通过提高招聘标准、完善薪酬福利制度",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      541.0
+     ],
+     [
+      1041.0,
+      541.0
+     ],
+     [
+      1041.0,
+      572.0
+     ],
+     [
+      159.0,
+      572.0
+     ]
+    ],
+    "text": "等措施来吸引人才加入队伍，从而为档案审核工作注入新的活力和创新思",
+    "order": 6,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      156.0,
+      602.0
+     ],
+     [
+      200.0,
+      602.0
+     ],
+     [
+      200.0,
+      636.0
+     ],
+     [
+      156.0,
+      636.0
+     ]
+    ],
+    "text": "维。",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      219.0,
+      668.0
+     ],
+     [
+      1041.0,
+      668.0
+     ],
+     [
+      1041.0,
+      694.0
+     ],
+     [
+      219.0,
+      694.0
+     ]
+    ],
+    "text": "健全完善激励机制。通过设立明确的普升通道和奖励制度，表彰优秀",
+    "order": 8,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      730.0
+     ],
+     [
+      1041.0,
+      730.0
+     ],
+     [
+      1041.0,
+      756.0
+     ],
+     [
+      162.0,
+      756.0
+     ]
+    ],
+    "text": "的档案审核人员，以营造积极向上的工作氛围，并推动档案审核工作的持",
+    "order": 9,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      788.0
+     ],
+     [
+      278.0,
+      788.0
+     ],
+     [
+      278.0,
+      820.0
+     ],
+     [
+      159.0,
+      820.0
+     ]
+    ],
+    "text": "续发展[9]。",
+    "order": 10,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      215.0,
+      853.0
+     ],
+     [
+      488.0,
+      853.0
+     ],
+     [
+      488.0,
+      882.0
+     ],
+     [
+      215.0,
+      882.0
+     ]
+    ],
+    "text": "4.4强化公众参与监督",
+    "order": 11,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      918.0
+     ],
+     [
+      1041.0,
+      918.0
+     ],
+     [
+      1041.0,
+      944.0
+     ],
+     [
+      218.0,
+      944.0
+     ]
+    ],
+    "text": "提升档案信息公开透明度。各级档案馆应及时通过官方网站、社交媒",
+    "order": 12,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      978.0
+     ],
+     [
+      1041.0,
+      978.0
+     ],
+     [
+      1041.0,
+      1007.0
+     ],
+     [
+      160.0,
+      1007.0
+     ]
+    ],
+    "text": "体等渠道公开档案信息，以便接受公众的监督和反馈。这将有助于提高档",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1040.0
+     ],
+     [
+      480.0,
+      1040.0
+     ],
+     [
+      480.0,
+      1071.0
+     ],
+     [
+      160.0,
+      1071.0
+     ]
+    ],
+    "text": "案管理的公信力和可信度。",
+    "order": 14,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1105.0
+     ],
+     [
+      1034.0,
+      1105.0
+     ],
+     [
+      1034.0,
+      1131.0
+     ],
+     [
+      218.0,
+      1131.0
+     ]
+    ],
+    "text": "建立公众参与机制。鼓励公众参与档案开放审核的讨论和提出建议，",
+    "order": 15,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      1167.0
+     ],
+     [
+      1054.0,
+      1167.0
+     ],
+     [
+      1054.0,
+      1194.0
+     ],
+     [
+      160.0,
+      1194.0
+     ]
+    ],
+    "text": "增强档案工作的民主性和科学性，激发公众对档案管理工作的关注和参与。",
+    "order": 16,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      218.0,
+      1230.0
+     ],
+     [
+      1039.0,
+      1230.0
+     ],
+     [
+      1039.0,
+      1256.0
+     ],
+     [
+      218.0,
+      1256.0
+     ]
+    ],
+    "text": "设立专门的反馈渠道。如在线留言板、电话热线等途径。提供便捷的",
+    "order": 17,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      591.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1568.0
+     ],
+     [
+      611.0,
+      1601.0
+     ],
+     [
+      591.0,
+      1601.0
+     ]
+    ],
+    "text": "9",
+    "order": 18,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      1288.0
+     ],
+     [
+      1032.0,
+      1288.0
+     ],
+     [
+      1032.0,
+      1320.0
+     ],
+     [
+      159.0,
+      1320.0
+     ]
+    ],
+    "text": "档案信息反馈渠道，及时解决和处理公众在档案利用过程中遇到的问题，",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      1352.0
+     ],
+     [
+      673.0,
+      1352.0
+     ],
+     [
+      673.0,
+      1381.0
+     ],
+     [
+      162.0,
+      1381.0
+     ]
+    ],
+    "text": "从而提高档案管理工作的服务质量和效率。",
+    "order": 20,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 9,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      212.0,
+      229.0
+     ],
+     [
+      382.0,
+      229.0
+     ],
+     [
+      382.0,
+      260.0
+     ],
+     [
+      212.0,
+      260.0
+     ]
+    ],
+    "text": "5结论与展望",
+    "order": 1,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      216.0,
+      294.0
+     ],
+     [
+      1039.0,
+      294.0
+     ],
+     [
+      1039.0,
+      320.0
+     ],
+     [
+      216.0,
+      320.0
+     ]
+    ],
+    "text": "深入探讨馆藏档案开放审核协同机制的重要性及实现策略。详细分析",
+    "order": 2,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      162.0,
+      356.0
+     ],
+     [
+      1038.0,
+      356.0
+     ],
+     [
+      1038.0,
+      382.0
+     ],
+     [
+      162.0,
+      382.0
+     ]
+    ],
+    "text": "当前档案管理的实际问题，提出制度创新、技术升级和人力资源开发等对",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      418.0
+     ],
+     [
+      1034.0,
+      418.0
+     ],
+     [
+      1034.0,
+      445.0
+     ],
+     [
+      160.0,
+      445.0
+     ]
+    ],
+    "text": "策，旨在全面提升档案审核的协同效能。这些对策不仅针对现有的挑战，",
+    "order": 4,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      479.0
+     ],
+     [
+      1041.0,
+      479.0
+     ],
+     [
+      1041.0,
+      510.0
+     ],
+     [
+      159.0,
+      510.0
+     ]
+    ],
+    "text": "还借鉴了江西省档案馆等先进实践，立足于全国实际和中国式现代化的需",
+    "order": 5,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      541.0
+     ],
+     [
+      1042.0,
+      541.0
+     ],
+     [
+      1042.0,
+      572.0
+     ],
+     [
+      159.0,
+      572.0
+     ]
+    ],
+    "text": "求，为档案管理工作的改进提供具体路径。技术进步和管理理念更新将带",
+    "order": 6,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      604.0
+     ],
+     [
+      1042.0,
+      604.0
+     ],
+     [
+      1042.0,
+      634.0
+     ],
+     [
+      160.0,
+      634.0
+     ]
+    ],
+    "text": "来更多的发展机遇。协同机制被认为是推动档案管理现代化和专业化的核",
+    "order": 7,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      159.0,
+      665.0
+     ],
+     [
+      866.0,
+      665.0
+     ],
+     [
+      866.0,
+      697.0
+     ],
+     [
+      159.0,
+      697.0
+     ]
+    ],
+    "text": "心作用，期待更高效、透明和便捷的档案管理系统的出现。",
+    "order": 8,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      215.0,
+      727.0
+     ],
+     [
+      329.0,
+      727.0
+     ],
+     [
+      329.0,
+      759.0
+     ],
+     [
+      215.0,
+      759.0
+     ]
+    ],
+    "text": "参考文献",
+    "order": 9,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "title"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      792.0
+     ],
+     [
+      1028.0,
+      792.0
+     ],
+     [
+      1028.0,
+      821.0
+     ],
+     [
+      213.0,
+      821.0
+     ]
+    ],
+    "text": "[1]刘淑环．浅析档案开放鉴定与档案开放审核工作[J]．兰台内外，",
+    "order": 10,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      160.0,
+      856.0
+     ],
+     [
+      375.0,
+      856.0
+     ],
+     [
+      375.0,
+      884.0
+     ],
+     [
+      160.0,
+      884.0
+     ]
+    ],
+    "text": "2024,(09):44-46.",
+    "order": 11,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      917.0
+     ],
+     [
+      1042.0,
+      917.0
+     ],
+     [
+      1042.0,
+      946.0
+     ],
+     [
+      213.0,
+      946.0
+     ]
+    ],
+    "text": "[2]陈强．国家档案馆档案开放审核的法治进路[J/OL].档案与建设，",
+    "order": 12,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      173.0,
+      978.0
+     ],
+     [
+      366.0,
+      978.0
+     ],
+     [
+      366.0,
+      1014.0
+     ],
+     [
+      173.0,
+      1014.0
+     ]
+    ],
+    "text": "1-8[2024-04-20].",
+    "order": 13,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      212.0,
+      1039.0
+     ],
+     [
+      1045.0,
+      1039.0
+     ],
+     [
+      1045.0,
+      1072.0
+     ],
+     [
+      212.0,
+      1072.0
+     ]
+    ],
+    "text": "[3]李艳．对馆藏档案开放审核工作的思考[J]．陕西档案，2023，（0",
+    "order": 14,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      156.0,
+      1105.0
+     ],
+     [
+      277.0,
+      1105.0
+     ],
+     [
+      277.0,
+      1134.0
+     ],
+     [
+      156.0,
+      1134.0
+     ]
+    ],
+    "text": "6): 25-27.",
+    "order": 15,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      1166.0
+     ],
+     [
+      1046.0,
+      1166.0
+     ],
+     [
+      1046.0,
+      1197.0
+     ],
+     [
+      213.0,
+      1197.0
+     ]
+    ],
+    "text": "[4]陈丽霞．档案开放审核需要注意的几个问题[J]．山东档案，2023,",
+    "order": 16,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      172.0,
+      1230.0
+     ],
+     [
+      312.0,
+      1230.0
+     ],
+     [
+      312.0,
+      1259.0
+     ],
+     [
+      172.0,
+      1259.0
+     ]
+    ],
+    "text": "(06): 50-51.",
+    "order": 17,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      1291.0
+     ],
+     [
+      1041.0,
+      1291.0
+     ],
+     [
+      1041.0,
+      1320.0
+     ],
+     [
+      213.0,
+      1320.0
+     ]
+    ],
+    "text": "[5]江西省档案馆推进馆藏文书档案开放审核工作纪实[N]．中国档",
+    "order": 18,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      158.0,
+      1349.0
+     ],
+     [
+      376.0,
+      1349.0
+     ],
+     [
+      376.0,
+      1384.0
+     ],
+     [
+      158.0,
+      1384.0
+     ]
+    ],
+    "text": "案报，2022-08-03",
+    "order": 19,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      585.0,
+      1568.0
+     ],
+     [
+      617.0,
+      1568.0
+     ],
+     [
+      617.0,
+      1601.0
+     ],
+     [
+      585.0,
+      1601.0
+     ]
+    ],
+    "text": "10",
+    "order": 20,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      1415.0
+     ],
+     [
+      1042.0,
+      1415.0
+     ],
+     [
+      1042.0,
+      1446.0
+     ],
+     [
+      213.0,
+      1446.0
+     ]
+    ],
+    "text": "[6]张梦怡．馆藏档案开放审核新路径研究[J]．浙江档案，2023，（0",
+    "order": 21,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ },
+ {
+  "pdf": "3024",
+  "image_id": 10,
+  "annotate": [
+   {
+    "text_region": [
+     [
+      157.0,
+      230.0
+     ],
+     [
+      321.0,
+      230.0
+     ],
+     [
+      321.0,
+      258.0
+     ],
+     [
+      157.0,
+      258.0
+     ]
+    ],
+    "text": "9):51-53+57.",
+    "order": 1,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      291.0
+     ],
+     [
+      1046.0,
+      291.0
+     ],
+     [
+      1046.0,
+      320.0
+     ],
+     [
+      213.0,
+      320.0
+     ]
+    ],
+    "text": "[7]李景荣．新时代馆藏档案开放审核工作探讨[J]．山东档案，2023,",
+    "order": 2,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      173.0,
+      356.0
+     ],
+     [
+      312.0,
+      356.0
+     ],
+     [
+      312.0,
+      384.0
+     ],
+     [
+      173.0,
+      384.0
+     ]
+    ],
+    "text": "(03):58-59.",
+    "order": 3,
+    "need-info": true,
+    "new_line": false,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      213.0,
+      416.0
+     ],
+     [
+      1029.0,
+      416.0
+     ],
+     [
+      1029.0,
+      443.0
+     ],
+     [
+      213.0,
+      443.0
+     ]
+    ],
+    "text": "[8]于晓艳．探索馆藏档案开放审核模式 建立多主体责任共担机制",
+    "order": 4,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      157.0,
+      478.0
+     ],
+     [
+      561.0,
+      478.0
+     ],
+     [
+      561.0,
+      508.0
+     ],
+     [
+      157.0,
+      508.0
+     ]
+    ],
+    "text": "[J].浙江档案，2022，(09)：16-17.",
+    "order": 5,
+    "need-info": true,
+    "new_line": true,
+    "structure_function": "reference"
+   },
+   {
+    "text_region": [
+     [
+      584.0,
+      1568.0
+     ],
+     [
+      617.0,
+      1568.0
+     ],
+     [
+      617.0,
+      1598.0
+     ],
+     [
+      584.0,
+      1598.0
+     ]
+    ],
+    "text": "11",
+    "order": 6,
+    "need-info": false,
+    "new_line": false,
+    "structure_function": "text"
+   }
+  ],
+  "image_size": [
+   1191,
+   1684
+  ]
+ }
+]
