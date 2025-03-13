@@ -1,4 +1,4 @@
-# CH-PDF-Parse
+# CH-SciPDF-Parse
 
 This repo contain the code for Chinese Journal PDF parsing method.
 
