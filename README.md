@@ -2,8 +2,9 @@
 
 This repo contain the code for Chinese Journal PDF parsing method.
 
-Motivation: 
+** Motivation **: 
 1. General PDF parsing method cannot meet the requirements of academic PDF parsing
 2. GROBID get poor performance on Chinese journal PDFs
 
+** Method **
 ![parsing pipeline](pdf_processing.png)
