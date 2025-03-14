@@ -8,3 +8,8 @@ This repo contain the code for Chinese Journal PDF parsing method.
 
 **Method**
 ![parsing pipeline](pdf_processing.png)
+
+**Advantage**
+1. High accuracy of text type identification(especially for the table caption and image caption)
+2. citation extraction
+3. More formatted Output
